@@ -1,0 +1,1 @@
+# Analise-LLM-caderno-2024-2-5-AMARELO-REAPLICA-O_PP
