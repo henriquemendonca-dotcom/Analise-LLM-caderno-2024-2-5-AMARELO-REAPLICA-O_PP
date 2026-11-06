@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 159,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-159.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar características de figuras planas ou espaciais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Características das figuras geométricas planas"
+    ],
+    "assunto": "Geometria Plana",
+    "objeto_de_analise": "Classificação de triângulos quanto aos ângulos e aos lados a partir de dobraduras",
+    "fenomeno_conceito": "Propriedades dos triângulos equiláteros e ângulos internos"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A dobradura descrita no enunciado parte de um retângulo e realiza uma sobreposição que resulta em um triângulo com lados iguais gerados pela simetria da dobra e ângulos internos de 60 graus."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

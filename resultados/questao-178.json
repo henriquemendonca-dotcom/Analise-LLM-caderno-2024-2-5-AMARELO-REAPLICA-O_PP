@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 178,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-178.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar informações expressas em gráficos ou tabelas para fazer inferências."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Resolver problema com dados apresentados em tabelas ou gráficos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Leitura e interpretação de gráficos estatísticos",
+    "conteudos_relacionados": [
+      "Análise de dados"
+    ],
+    "assunto": "Gráficos de radar/polares",
+    "objeto_de_analise": "Distâncias médias preferidas entre diferentes categorias e locais no gráfico",
+    "fenomeno_conceito": "Representação gráfica de dados estatísticos multivariados",
+    "analise_alternativas": []
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-09T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão exige a leitura direta de um gráfico de radar (gráfico polar).",
+      "As menores distâncias correspondem aos pontos mais próximos do centro do gráfico.",
+      "Identificação dos países que possuem os menores valores para as categorias de estranhos, conhecidos e amigos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

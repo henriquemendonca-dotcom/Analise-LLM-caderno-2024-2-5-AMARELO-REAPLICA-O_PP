@@ -1,0 +1,18 @@
+QUESTÃO 164
+
+O processo de truncamento de um octaedro regular consiste em retirar, a partir de cada vértice, uma pirâmide obtida pelo seccionamento desse poliedro por um plano, conforme a figura.
+
+**[FIGURA: Ilustração de um octaedro regular em tom azul claro, posicionado em perspectiva isométrica. Linhas tracejadas indicam os cortes planos feitos próximos a cada um dos vértices da pirâmide dupla, representando as pirâmides que serão removidas no processo de truncamento, de modo que os vértices originais dão lugar a novas faces poligonais.]**
+
+Não há interseção entre duas dessas secções.
+
+Disponível em: www.matematicasvisuales.com.
+Acesso em: 21 out. 2019 (adaptado).
+
+Qual é a quantidade de vértices do octaedro truncado?
+
+A) 6
+B) 8
+C) 14
+D) 24
+E) 30

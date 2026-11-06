@@ -1,0 +1,15 @@
+QUESTÃO 107
+
+*Pisaster ochraceus* é uma espécie de estrela-do-mar que ocorre em comunidades da zona entremarés da América do Norte Ocidental. Seu principal alimento são moluscos da espécie *Mytilus californianus*. Esse molusco, por sua vez, é dominante e compete por espaço com muitos outros invertebrados e até algas. Pesquisadores estudam as relações ecológicas nesse ambiente desde a década de 1960, com o objetivo de entender a dinâmica dessas comunidades. Alguns dados são apresentados no gráfico.
+
+**[FIGURA: Gráfico de linha intitulado no eixo vertical como "Número de espécies presentes" (variando de 0 a 20) e no eixo horizontal como "Ano" (com marcações nos anos de 1963, 1965, 1967, 1969, 1971 e 1973). O gráfico possui duas curvas: uma linha azul com pontos representando o grupo "Com *Pisaster* (controle)", que se mantém estável com um ligeiro aumento de cerca de 17 espécies em 1963 para 20 espécies em 1973; e uma linha vermelha com pontos representando o grupo "Sem *Pisaster* (experimento)", que mostra uma queda drástica de cerca de 17 espécies em 1963 para aproximadamente 2 espécies em 1967, mantendo-se baixa e próxima de zero até 1973.]**
+
+CAMPBELL, N. et al. **Biologia**. São Paulo: Artmed, 2010 (adaptado).
+
+A presença de *Pisaster* influencia a diversidade de espécies, nesse ecossistema, porque esses animais
+
+A fragmentam hábitats, formando novos espaços de colonização.
+B servem de presa, aumentando a competição entre as outras espécies.
+C isolam geograficamente as populações, reduzindo a taxa de especiação.
+D diminuem o número de moluscos, reduzindo a competição destes com outros seres.
+E liberam substâncias inibidoras de outros organismos, favorecendo o aumento da população de moluscos.

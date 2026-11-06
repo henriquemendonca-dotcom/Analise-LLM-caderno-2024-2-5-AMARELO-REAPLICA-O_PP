@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 111,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-111.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Compreender a importância dos ciclos biogeoquímicos ou do fluxo energia para a vida, ou da ação de agentes ou fenômenos que podem causar alterações nesses processos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia",
+    "conteudos_relacionados": [
+      "Ciclos biogeoquímicos",
+      "Microbiologia do solo"
+    ],
+    "assunto": "Ciclo do nitrogênio e microbiota do solo",
+    "objeto_de_analise": "O efeito da esterilização do solo no desenvolvimento de plantas de ervilha",
+    "fenomeno_conceito": "Fixação e ciclagem de nutrientes por microrganismos do solo",
+    "objeto_de_conhecimento": "Ecologia e ciências ambientais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A esterilização do solo por calor não reduz significativamente a disponibilidade de água para as plantas, pois a umidade pode ser repostas e mantida ideal durante o cultivo."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O cálcio é um mineral presente no solo e não depende exclusivamente da atividade microbiana viva para sua disponibilização imediata da mesma forma que os compostos orgânicos de nitrogênio."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Nota: O gabarito oficial indicado é E (relacionado ao nitrogênio e às bactérias fixadoras/nitrificantes), mas caso houvesse ambiguidade com o fosfato, o nitrogênio é o nutriente clássico afetado pela esterilização devido à morte de bactérias fixadoras."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O potássio é um macronutriente iônico cuja disponibilidade primária não é drasticamente reduzida pela esterilização por calor do solo em comparação ao nitrogênio orgânico."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "A esterilização do solo destrói os microrganismos (como bactérias fixadoras de nitrogênio e bactérias nitrificantes) essenciais para transformar o nitrogênio orgânico e atmosférico em formas assimiláveis pelas plantas, como o amônio e o nitrato."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A questão aborda a importância dos microrganismos do solo para a ciclagem de nutrientes, especificamente o nitrogênio.",
+      "A esterilização por calor mata a microbiota do solo, impedindo a mineralização e fixação de nutrientes essenciais como o nitrogênio."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

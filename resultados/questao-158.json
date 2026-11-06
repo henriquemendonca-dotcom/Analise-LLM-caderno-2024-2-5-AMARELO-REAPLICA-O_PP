@@ -1,0 +1,77 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 158,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-158.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Interpretar gráfico cartesiano que represente relações entre grandezas."
+    },
+    "habilidades_relacionadas": [
+      "H15",
+      "H19"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos algébricos",
+    "conteudos_relacionados": [
+      "Conhecimentos geométricos"
+    ],
+    "assunto": "Gráficos de funções e variação de grandezas em recipientes não cilíndricos",
+    "objeto_de_analise": "A variação da altura da água em função do tempo durante o escoamento com vazão constante em um garrafão de geometria variável",
+    "fenomeno_conceito": "Taxa de variação da altura e comportamento gráfico de funções associadas a volumes de sólidos de revolução"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a interpretação de gráfico cartesiano relacionando altura e tempo em um recipiente com diferentes seções transversais.",
+      "O garrafão está de cabeça para baixo, escoando pelo gargalo (parte mais estreita embaixo). Como a água escoa por cima na inversão (gargalo para cima, base para baixo), o gargalo estreito esvazia muito rapidamente causando uma queda abrupta na altura, seguida por variações nas partes mais largas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

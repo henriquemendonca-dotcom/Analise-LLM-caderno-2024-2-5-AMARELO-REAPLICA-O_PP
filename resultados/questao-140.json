@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 140,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-140.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Função afim",
+    "conteudos_relacionados": [
+      "Álgebra"
+    ],
+    "assunto": "Custo de produção e aluguel baseado em função de 1º grau",
+    "objeto_de_analise": "Custo total mensal em função do número de cópias",
+    "fenomeno_conceito": "Função polinomial do 1º grau"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-01T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Substituição de x por 12000 em cada função de custo e cálculo do menor valor resultante."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

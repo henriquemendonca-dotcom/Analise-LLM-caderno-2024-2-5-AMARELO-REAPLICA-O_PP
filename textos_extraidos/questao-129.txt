@@ -1,0 +1,17 @@
+QUESTÃO 129
+
+O ácido sulfúrico é uma das principais substâncias produzidas industrialmente no mundo. O esquema apresenta, de forma simplificada, as etapas de sua produção.
+
+[FIGURA: Fluxograma simplificado da produção industrial de ácido sulfúrico dividido em cinco etapas interconectadas por setas. 
+- Etapa 1 (caixa superior): "Queima do enxofre, S (s), para a geração de SO₂ (g)". Aponta para a Etapa 2.
+- Etapa 2 (caixa intermediária): "Conversão do SO₂ (g) a SO₃ (g) na presença de O₂ (g) e catalisador". Desta etapa partem duas ramificações para baixo:
+  - Ramificação esquerda leva à Etapa 3 (caixa): "Lavagem do SO₃ (g) com água para geração de parte do H₂SO₄ (l)".
+  - Ramificação direita leva à Etapa 4 (caixa): "Absorção do SO₃ (g) em H₂SO₄ (l) para formar H₂S₂O₇ (l)". A Etapa 4 aponta verticalmente para baixo para a Etapa 5 (caixa): "Diluição do H₂S₂O₇ (l) para decomposição em H₂SO₄ concentrado".]
+
+Em qual etapa ocorre a conversão química do enxofre (S) para o seu maior estado de oxidação?
+
+A 1
+B 2
+C 3
+D 4
+E 5

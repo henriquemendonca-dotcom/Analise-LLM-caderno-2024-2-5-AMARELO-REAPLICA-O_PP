@@ -1,0 +1,75 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 124,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-124.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar the tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Relacionar informações para compreender manuais de instalação ou utilização de aparelhos, ou sistemas tecnológicos de uso comum."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biotecnologia",
+    "conteudos_relacionados": [
+      "Nanotecnologia",
+      "Farmacologia"
+    ],
+    "assunto": "Nanocápsulas aplicadas na liberação de fármacos",
+    "objeto_de_analise": "Mecanismo de ação e absorção de nanoanestésicos na pele humana",
+    "fenomeno_conceito": "Transporte e liberação controlada de princípios ativos por meio de sistemas nanoestruturados biodegradáveis"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda nanotecnologia aplicada à saúde e transporte de fármacos.",
+      "A alternativa A descreve corretamente o impacto da utilização das nanocápsulas baseada no texto e na figura."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

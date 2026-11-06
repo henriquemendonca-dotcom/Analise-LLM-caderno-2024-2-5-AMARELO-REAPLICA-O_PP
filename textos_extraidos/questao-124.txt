@@ -1,0 +1,15 @@
+QUESTÃO 124
+
+Um laboratório farmacêutico desenvolveu um anestésico tópico, em forma de creme, destinado à aplicação na pele de pacientes a serem submetidos a pequenas intervenções dermatológicas. As nanocápsulas são feitas de polímero 100% biodegradável, dotadas de paredes semipermeáveis, e têm um núcleo oleoso que contém os princípios ativos prilocaína e lidocaína. O nanoanestésico é responsável pelo transporte e entrega dos princípios ativos à região desejada do organismo.
+
+[FIGURA: Diagrama esquemático de um corte transversal da pele humana (mostrando a Epiderme, Derme e Hipoderme) comparando a aplicação de um "Produto Normal" versus um "Produto Nanoencapsulado". Na parte esquerda, o produto normal apresenta gotas de princípio ativo que ficam retidas ou se dispersam superficialmente na epiderme. Na parte direita, o produto nanoencapsulado mostra nanocápsulas com núcleo oleoso e parede polimérica penetrando mais profundamente através das camadas da pele, liberando os princípios ativos (representados por pequenos losangos vermelhos) na derme e regiões mais profundas de forma direcionada.]
+
+VASCONCELOS, Y. Moléculas inovadoras. Pesquisa Fapesp, n. 238, 2015 (adaptado).
+
+A utilização dessas nanocápsulas implica o(a)
+
+Ⓐ diminuição do tempo de vida do fármaco, pela migração do medicamento da epiderme para a hipoderme.
+Ⓑ facilidade de sua absorção na epiderme, pela interação do núcleo oleoso com a camada de gordura da pele.
+Ⓒ acréscimo da concentração dos princípios ativos do anestésico na epiderme, ampliando sua região de atuação.
+Ⓓ utilização de uma maior quantidade do creme, para manter a eficiência da droga mesmo com a miniaturização da cápsula.
+Ⓔ aumento do transporte e da absorção dos princípios ativos, à medida que elas se degradam ao migrarem da epiderme para a derme.

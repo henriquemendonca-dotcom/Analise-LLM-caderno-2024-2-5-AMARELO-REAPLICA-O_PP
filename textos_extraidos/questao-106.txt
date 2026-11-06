@@ -1,0 +1,16 @@
+QUESTÃO 106
+
+O ouvido humano apresenta algumas características interessantes. Uma delas é que existe uma intensidade mínima, ou limiar de audibilidade, $I_0$, abaixo da qual o som não é audível. O nível de audibilidade é a grandeza que quantifica a audibilidade (sensação) e sua unidade é o fon, medido em decibéis (dB). O gráfico contém, em escala logarítmica, curvas de igual audibilidade, isto é, cada curva representa uma mesma audibilidade para diferentes frequências.
+
+**[FIGURA: Gráfico de linhas intitulado "Curvas de igual audibilidade". O eixo vertical (ordenada) representa o "Nível de intensidade (dB)" variando de 0 a 120 em intervalos de 10. O eixo horizontal (abscissa) representa a "Frequência (Hz)" em escala logarítmica, mostrando os valores 20, 100, 500, 1000, 5000 e 10000. O gráfico exibe várias curvas vermelhas paralelas que se estendem da esquerda para a direita, rotuladas por fons de 0 a 120 (cada curva corresponde a um valor de fon, desde "0 fon" na parte inferior até "120 fons" e "Limiar de dor" na parte superior). Uma seta aponta para a curva mais baixa identificada como "Curva de 0 fon" e "Limiar de audibilidade".]**
+
+Fonte: H. Fletcher and W. A. Munson, J.A.S.A., n. 5, 1933.  
+MAGALHÃES, D. A.; ALVES FILHO, J. P. A discreta dança do ar ao som das equações da física acústica. Física na Escola, n. 16, 2018.
+
+Considerando a frequência de 90 Hz, o menor nível de intensidade, em dB, para que possamos perceber algum som é, aproximadamente,
+
+A –20.  
+B 0.  
+C 30.  
+D 40.  
+E 4000.

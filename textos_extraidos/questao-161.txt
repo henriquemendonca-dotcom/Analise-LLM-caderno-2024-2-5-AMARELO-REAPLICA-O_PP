@@ -1,0 +1,15 @@
+QUESTÃO 161
+
+Uma microempresa pretende fabricar pipas para vender no próximo verão. Um modelo de pipa está representado pelo quadrilátero $ABCD$.
+
+[FIGURA: Ilustração de um quadrilátero ABCD em formato de pipa, preenchido na cor amarela, com contornos pretos. O quadrilátero possui duas diagonais internas traçadas em vermelho: a diagonal horizontal AC e a diagonal vertical BD, que se interceptam perpendicularmente no ponto E, indicado por um símbolo de ângulo reto. Os vértices A, B, C e D estão marcados com pontos pretos e rotulados. O ponto E também está rotulado.]
+
+Nessa representação, os segmentos $AB$, $BC$ e $CE$ medem, respectivamente, $20\text{ cm}$, $34\text{ cm}$ e $30\text{ cm}$. Além disso, $E$ pertence ao segmento $AC$ e é ponto médio do segmento $BD$.
+
+A medida da área, em centímetro quadrado, desse modelo de pipa é
+
+A) $58$.
+B) $96$.
+C) $108$.
+D) $184$.
+E) $672$.

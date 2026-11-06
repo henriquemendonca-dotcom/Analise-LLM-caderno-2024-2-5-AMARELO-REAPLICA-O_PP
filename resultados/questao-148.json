@@ -1,0 +1,79 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 148,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-148.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H12",
+      "descricao": "Resolver situação-problema que envolva medidas de grandezas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Grandezas, unidades de medida e escalas"
+    ],
+    "assunto": "Calculo de volume de cilindro e paralelepipedo",
+    "objeto_de_analise": "Altura do novo recipiente com base nos volumes comparados",
+    "fenomeno_conceito": "Volume de corpos geometricos e equivalencia de unidades de medida"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão trata do cálculo de volumes de figuras geométricas espaciais (cilindro e paralelepípedo reto retângulo).",
+      "Envolve a conversão e relação entre unidades de medida de volume (centímetros cúbicos e mililitros)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_148.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,13 @@
+QUESTÃO 159
+
+Na construção de um avião de papel, uma criança dobrou uma folha retangular sobrepondou o lado $DC$ ao lado $AB$. Assim, ela obteve dois novos retângulos, sendo um deles o retângulo $DCNM$, conforme a figura 1. Em seguida, ela fez uma nova dobradura, mantendo $N$ fixo e sobrepondo o lado $CN$, de $DCNM$, a um segmento de $MN$. Essa sobreposição determinou um ponto $P$ em $MN$ e também um ponto $Q$ em $DC$, conforme a figura 2.
+
+**[FIGURA: A imagem mostra duas etapas de dobradura de papel (Figura 1 e Figura 2). A Figura 1 apresenta três ilustrações do retângulo original $ABCD$, onde a linha tracejada $MN$ divide o retângulo ao meio, indicando a dobra do lado $DC$ sobre o lado $AB$, formando o retângulo menor $DCNM$. A Figura 2 ilustra a segunda dobradura em duas partes: à esquerda, o canto superior direito do retângulo $DCNM$ é dobrado em direção ao segmento $MN$, formando uma aba curva com vértice em $N$; à direita, o resultado final dessa dobra formando um triângulo $NPQ$, onde $P$ está sobre o segmento $MN$ e $Q$ está sobre o segmento $DC$.]**
+
+Considerando as classificações quanto à medida dos ângulos e à medida dos lados, o triângulo $NPQ$ é
+
+A acutângulo e escaleno.
+B acutângulo e isósceles não equilátero.
+C acutângulo e equilátero.
+D retângulo e escaleno.
+E retângulo e isósceles não equilátero.

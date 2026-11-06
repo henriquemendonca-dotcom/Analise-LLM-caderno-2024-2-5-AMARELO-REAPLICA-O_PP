@@ -1,0 +1,78 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 150,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-150.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [
+      "Operações em conjuntos numéricos"
+    ],
+    "assunto": "Rendimento de veículos e consumo de combustível",
+    "objeto_de_analise": "Cálculo da quantidade de combustível necessária para completar o percurso com base no rendimento e na reserva desejada",
+    "fenomeno_conceito": "Proporcionalidade entre distância percorrida, volume de combustível e rendimento médio"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024.05",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "O problema envolve cálculo numérico básico com grandezas e proporções (distância, rendimento em km/l e volume de combustível)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

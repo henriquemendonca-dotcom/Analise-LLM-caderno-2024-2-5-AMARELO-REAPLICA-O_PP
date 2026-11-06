@@ -1,0 +1,15 @@
+QUESTÃO 153
+
+Os preços da gasolina e do etanol no Brasil são frequentemente noticiados nos telejornais. Após pesquisa realizada pelo Índice de Preços Ticket Car (IPTC), os preços desses combustíveis, em real por litro, em quatro estados e no Distrito Federal, foram divulgados pelo telejornal, conforme o quadro.
+
+[FIGURA: Ilustração contendo um ícone de bomba de combustível verde no canto superior esquerdo e um quadro com cinco caixas retangulares organizadas em duas colunas, além de uma centralizada embaixo, contendo os preços do etanol e da gasolina por litro. Os dados são: Distrito Federal (etanol: 2,28; gasolina: 3,18), Goiás (etanol: 1,95; gasolina: 2,93), Mato Grosso (etanol: 2,17; gasolina: 3,17), Rio de Janeiro (etanol: 2,35; gasolina: 3,14) e São Paulo (etanol: 1,90; gasolina: 2,70).]
+
+Disponível em: http://economia.uol.com.br. Acesso em: 19 jan. 2015 (adaptado).
+
+Dentre os locais divulgados pelo telejornal, o que apresenta a maior razão entre os preços, em real por litro, da gasolina e do etanol é
+
+A Distrito Federal.
+B Goiás.
+C Mato Grosso.
+D Rio de Janeiro.
+E São Paulo.

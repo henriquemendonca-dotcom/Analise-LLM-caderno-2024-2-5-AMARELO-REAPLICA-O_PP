@@ -1,0 +1,25 @@
+QUESTÃO 130
+
+Na fissão do urânio-235, esse átomo é dividido em átomos mais leves quando bombardeado por um nêutron.
+
+Nos reatores nucleares, novas reações ocorrem a partir dos nêutrons liberados na fissão, caracterizando uma reação em cadeia. Essa reação é mais eficiente quando esses nêutrons têm energia cinética baixa. Por isso, é utilizada uma substância moderadora na qual os nêutrons possam colidir, transferindo parte da energia.
+
+Considere que essas colisões são frontais e aproximadamente elásticas, que a substância moderadora é um alvo em repouso e que as velocidades dos nêutrons, $v_{\text{nf}}$, e da substância moderadora, $v_{\text{sf}}$, após a colisão, são:
+
+$$v_{\text{nf}} = \left(\frac{m_{\text{n}} - m_{\text{s}}}{m_{\text{n}} + m_{\text{s}}}\right) v_0$$
+
+$$v_{\text{sf}} = \left(\frac{2m_{\text{n}}}{m_{\text{n}} + m_{\text{s}}}\right) v_0$$
+
+em que $m_{\text{n}}$ é a massa do nêutron, $m_{\text{s}}$ é a massa da substância moderadora e $v_0$ é a velocidade inicial do nêutron.
+
+A substância moderadora que promoverá a maior redução de velocidade dos nêutrons, nesse processo de colisão, será:
+
+A) $_{1}^{2}\text{D}$
+
+B) $_{2}^{4}\text{He}$
+
+C) $_{6}^{12}\text{C}$
+
+D) $_{7}^{14}\text{N}$
+
+E) $_{38}^{94}\text{Sr}$

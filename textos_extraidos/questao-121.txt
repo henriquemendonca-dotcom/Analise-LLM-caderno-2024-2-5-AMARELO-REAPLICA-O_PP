@@ -1,0 +1,15 @@
+QUESTÃO 121
+
+O longo tempo que polímeros levam para serem degradados tem gerado problema de acúmulo de resíduos sólidos. A fim de contornar essa situação, têm sido propostos novos polímeros biodegradáveis que apresentam grupos ésteres hidrolisáveis, facilitando a assimilação desses polímeros pelos microrganismos.
+
+Qual unidade monomérica representa o polímero melhor assimilado pelos microrganismos?
+
+A) **[FIGURA: Unidade monomérica entre colchetes indicados por um 'n' no canto inferior direito, mostrando uma cadeia hidrocarbonada alifática contendo cinco átomos de carbono em zigue-zague, sem grupos funcionais heteroatômicos.]**
+
+B) **[FIGURA: Unidade monomérica entre colchetes com um 'n' no canto inferior direito, contendo uma carbonila (C=O) ligada a um átomo de oxigênio formando um grupo éster na cadeia principal (-O-C(=O)-).]**
+
+C) **[FIGURA: Unidade monomérica entre colchetes com um 'n' no canto inferior direito, contendo uma carbonila (C=O) ligada a um átomo de nitrogênio contendo hidrogênio formando um grupo amida na cadeia principal (-NH-C(=O)-).]**
+
+D) **[FIGURA: Unidade monomérica entre colchetes com um 'n' no canto inferior direito, contendo um heteroátomo de oxigênio na cadeia principal formando um grupoéter (-O-).]**
+
+E) **[FIGURA: Unidade monomérica entre colchetes com um 'n' no canto inferior direito, mostrando uma cadeia hidrocarbonada alifática ramificada com um átomo de cloro (Cl) ligado a um dos carbonos centrais.]**

@@ -1,0 +1,17 @@
+QUESTÃO 178
+
+Em 2017, foram publicados os resultados de uma pesquisa sobre a distância média preferida entre pessoas "estranhas", "conhecidas" e "amigas", dependiendo do local onde vivem, conforme apresentado.
+
+Distância média preferida (cm)
+
+[FIGURA: Gráfico de radar (ou gráfico polar) com múltiplos eixos radiais que representam diferentes países dispostos em círculo: China, Estados Unidos, Índia, Itália, México, Nigéria, Noruega, Reino Unido, Alemanha, Argentina e Brasil. No centro, há uma escala numérica vertical de 0 a 120 cm (com marcações de 10 em 10). O gráfico possui três linhas/polígonos coloridos que conectam os pontos em cada país, representando três categorias conforme a legenda na parte inferior: uma linha azul para "Amigos", uma linha amarela/laranja para "Conhecidos" e uma linha vermelha para "Estranhos". A linha vermelha ("Estranhos") ocupa a camada mais externa (maiores distâncias), seguida pela linha amarela ("Conhecidos") na camada intermediária, e a linha azul ("Amigos") na camada mais interna (menores distâncias).]
+
+SOROWOWSKA, A. et al. Prefered Interpersonal Distances: a Global Comparison. J Cross-Cultural Psychol., n. 48, 2017 (adaptado).
+
+Dentre os locais considerados no gráfico, os que apresentam as menores distâncias médias preferidas entre "estranhos", "conhecidos" e "amigos" são, respectivamente,
+
+A) China, Índia e China.
+B) Argentina, Argentina e Noruega.
+C) Noruega, Argentina e Argentina.
+D) Nigéria, Nigéria e México.
+E) China, Índia e Nigéria.

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 91,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-91.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Compreender o papel da evolução na produção de padrões, processos biológicos ou na organização taxonômica dos seres vivos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H14",
+        "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Evolução",
+      "Imunologia"
+    ],
+    "assunto": "Vacinação e variabilidade viral",
+    "objeto_de_analise": "Perda de eficácia da vacina ao longo do tempo devido à variação do patógeno",
+    "fenomeno_conceito": "Taxa de mutação em vírus e escape imunológico"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A diminuição da carga viral não explica a perda de imunização e a morte de 85% das cobaias nos testes subsequentes."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O enunciado não traz indícios de que o sistema imune das cobaias foi suprimido, mas sim que a vacina perdeu eficácia contra o agente infeccioso em novos testes com outras cobaias."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A alta taxa de mutação em vírus (especialmente os de RNA ou retrovírus) altera seus antígenos de superfície, fazendo com que os anticorpos induzidos pela vacina original deixem de reconhecer as novas cepas virais, reduzindo a sobrevivência das cobaias nos testes posteriores."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O uso de novas cobaias em cada experimento descarta a perda de memória imunológica individual, pois os animais testados após quatro semanas e três meses eram diferentes (novas cobaias)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Janela imunológica refere-se ao período entre a infecção e a detecção de anticorpos, não sendo o conceito aplicável à perda de eficácia vacinal em testes com animais diferentes."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-19T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a perda de eficácia de uma vacina contra um vírus ao longo do tempo em diferentes lotes de cobaias.",
+      "O fenômeno clássico para a falha de vacinas contra vírus mutogênicos é a alta taxa de mutação viral."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_q91",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

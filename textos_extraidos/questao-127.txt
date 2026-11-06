@@ -1,0 +1,20 @@
+QUESTÃO 127
+
+Quando utilizadas na iluminação pública noturna, as lâmpadas de LED brancas produzem uma luz branco-azulada, cujo brilho difuso dificulta a observação das estrelas, que também chegam aos nossos olhos como luz azulada. Por isso, esse tipo de iluminação pública pode ser considerada uma nova forma de poluição: a "poluição azul", que afeta a dinâmica de várias espécies.
+
+A cidade de Flagstaff, nos Estados Unidos, foi uma das pioneiras na resolução dessa questão. Embora sua iluminação pública seja feita com lâmpadas de LED brancas, a cidade tomou medidas para impedir o brilho azulado. Conforme estudos de uma equipe de cientistas australianos, com a aplicação de um material, é possível alterar a transmissão das frequências indesejadas, mantendo a intensidade total da lâmpada. As figuras do estudo indicam:
+• o espectro de emissão correspondente a uma lâmpada LED branca (**A**);
+• o espectro de emissão correspondente a uma lâmpada LED branca coberta com o material do estudo (**B**).
+
+**[FIGURA: Duas imagens de gráficos de espectro de emissão de radiação em função do comprimento de onda $\lambda$ (nm), variando de 380 a 700 nm, com faixas de cores indicadas no eixo horizontal: Violeta, Azul, Verde, Amarelo, Laranja e Vermelho. O eixo vertical indica a "Intensidade da radiação" de 0,0 a 1,0. 
+Gráfico (A): Mostra dois picos de emissão para a lâmpada LED branca pura. O primeiro pico é estreito e agudo, localizado na região do azul (próximo a 460 nm), atingindo intensidade máxima (1,0). O segundo pico é mais largo e arredondado, situado nas regiões do verde, amarelo e laranja (com máximo próximo a 540-560 nm) e intensidade em torno de 0,65. O gradiente de cores abaixo do gráfico reflete as regiões espectrais (azul intenso na primeira faixa e verde/amarelo na segunda).
+Gráfico (B): Mostra o espectro da lâmpada LED branca coberta com o material. O pico estreito na região do azul (460 nm) foi completamente eliminado (intensidade próxima a 0,0). Em compensação, o segundo pico na região amarelo-alaranjada (com máximo deslocado para próximo de 620 nm) aumentou significativamente de intensidade, atingindo o valor máximo (1,0). Abaixo do gráfico, o gradiente de cores mostra a ausência de azul e a predominância das cores amarela, laranja e vermelha.]**
+
+DIMOVSKI, A. M.; ROBERT, K. A. Artificial Light Pollution: Shifting Spectral Wavelengths to Mitigate Physiological and Health Consequences in a Nocturnal Marsupial Mammal. J. Exp. Zool., n. 329, 2018 (adaptado).
+
+Nesse estudo, o material utilizado na cobertura
+A) reflete a luz azul.
+B) difrata a luz azul.
+C) absorve a luz azul e emite luz amarelo-alaranjada.
+D) absorve a luz azul e emite luz ultravioleta.
+E) polariza a luz azul transmitida.

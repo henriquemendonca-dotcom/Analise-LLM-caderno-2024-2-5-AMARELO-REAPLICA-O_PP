@@ -1,0 +1,15 @@
+QUESTÃO 163
+
+Uma empresa com 425 funcionários resolve sortear, numa festa comemorativa, uma bicicleta entre os funcionários que têm filhos. Dos seus 425 funcionários, 68 não têm filhos, 153 têm um filho, 119 têm dois filhos e o restante tem mais de dois filhos. Cartões, com um único número impresso, serão distribuídos a funcionários que têm, pelo menos, um filho. Cada funcionário receberá, no máximo, um desses cartões.
+
+A probabilidade de a bicicleta ser sorteada para um funcionário que tenha exatamente dois filhos é
+
+A $\frac{357}{425}$
+
+B $\frac{238}{425}$
+
+C $\frac{119}{425}$
+
+D $\frac{119}{357}$
+
+E $\frac{1}{119}$

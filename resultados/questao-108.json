@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 108,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-108.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impactos ambientais dos fertilizantes agrícolas",
+    "conteudos_relacionados": [
+      "Ciclos biogeoquímicos",
+      "Poluição da água e do solo",
+      "Eutrofização"
+    ],
+    "assunto": "Impactos ambientais",
+    "objeto_de_analise": "Lixiviação de compostos nitrogenados",
+    "fenomeno_conceito": "Contaminação de corpos hídricos por fertilizantes agrícolas"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A lixiviação de compostos amoniacais e nitratos tende a acidificar o solo e as águas, e não a elevar a alcalinidade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A adição de nutrientes por fertilizantes aumenta a disponibilidade de nutrientes nos corpos d'água (processo de eutrofização), e não reduz."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "O texto descreve a lixiviação de íons nitrato e amônio para rios e lagos, o que provoca a eutrofização, caracterizada pela proliferação de grandes quantidades de algas e cianobactérias nos cursos d'água."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Os íons mencionados apresentam alta solubilidade em água, o que facilita o processo de lixiviação para os rios e lagos em vez de retenção definitiva que diminua sua solubilidade."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A eutrofização e a poluição por fertilizantes causam desequilíbrio trófico, resultando na morte de espécies nativas (como peixes por falta de oxigênio), e não na sua multiplicação."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o impacto ambiental da lixiviação de fertilizantes nitrogenados na agricultura de cana-de-açúcar.",
+      "O fenômeno descrito está ligado diretamente à poluição hídrica e à eutrofização."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

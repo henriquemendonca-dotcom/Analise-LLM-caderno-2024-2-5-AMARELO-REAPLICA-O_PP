@@ -1,0 +1,17 @@
+QUESTÃO 160
+
+A pressão sonora ($P$), medida em newton por metro quadrado ($\text{N/m}^2$), e o nível dessa pressão sonora ($n$), medido em decibel ($\text{dB}$), se relacionam mediante a expressão
+
+$$n = 20 \log\left(\frac{P}{P_0}\right),$$
+
+sendo $P_0 = 2 \times 10^{-5} \text{ N/m}^2$ uma constante, denominada limiar de percepção do ouvido humano.
+
+Durante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som automotivo ligado, atingiu um nível de pressão sonora de $80 \text{ dB}$.
+
+A pressão sonora, em newton por metro quadrado, proveniente desse ruído foi igual a
+
+A $8 \times 10^{-5}$
+B $5 \times 10^{-2}$
+C $2 \times 10^{-1}$
+D $1 \times 10^{3}$
+E $2 \times 10^{9}$

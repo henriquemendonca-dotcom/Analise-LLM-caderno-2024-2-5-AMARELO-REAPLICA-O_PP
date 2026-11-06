@@ -1,0 +1,15 @@
+QUESTÃO 143
+
+A transformação entre os tipos de energia cinética ($E_c$) e energia potencial ($E_p$), em sistemas conservativos, é regida pela lei que afirma que a energia mecânica, dada pela soma $E_c + E_p$, é constante ao longo do tempo. Assuma que, em um sistema conservativo, a energia mecânica é de $12\text{ kJ}$ (quilojoule), sendo observado que a energia cinética $E_c$ (em quilojoule), dada em função do tempo $t$ (em hora), apresentou o comportamento descrito no gráfico.
+
+[FIGURA: Gráfico de linha representando a energia cinética $E_c$ (em $\text{kJ}$) em função do tempo $t$ (em $\text{h}$). O eixo vertical ($E_c$) possui marcações de 0 a 11, e o eixo horizontal ($t$) possui marcações de 0 a 8. A curva em vermelho inicia em $(0, 7)$, decresce até atingir o ponto mínimo em $(2, 3)$, cresce acentuadamente até atingir o ponto máximo em $(4, 11)$, e depois decresce suavemente até o ponto final em $(8, 7)$.]
+
+Pretende-se avaliar, no período de $0$ a $8$ horas, qual é o maior valor possível de ser atingido pela energia potencial $E_p$ nesse sistema conservativo.
+
+O valor máximo da energia potencial, em quilojoule, é igual a
+
+A) $12$.
+B) $9$.
+C) $5$.
+D) $3$.
+E) $1$.

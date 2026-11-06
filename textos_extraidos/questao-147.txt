@@ -1,0 +1,13 @@
+QUESTÃO 147
+
+Dois objetos metálicos, ambos com temperatura inicial igual a $10\text{ }^\circ\text{C}$, são aquecidos. Suas temperaturas, $y_1$ e $y_2$, em função do tempo $t$, em segundo, estão representadas no plano cartesiano pelas semirretas com origem no ponto $A(0\text{ };\text{ }10)$ e que passam, respectivamente, pelos pontos $B(20\text{ };\text{ }50)$ e $C(40\text{ };\text{ }30)$. Sabe-se que, em determinado intervalo de tempo, a temperatura $y_1$ aumentou $20\text{ }^\circ\text{C}$.
+
+[FIGURA: Gráfico cartesiano com o eixo vertical $y\text{ (}^\circ\text{C)}$ graduado de $0$ a $55$ em intervalos de $5$ e o eixo horizontal $t\text{ (s)}$ graduado de $0$ a $55$ em intervalos de $5$. Há duas semirretas partindo do ponto de origem comum $A(0, 10)$ sobre o eixo vertical. A primeira semirreta, azul e rotulada como $y_1$, passa pelo ponto $B(20, 50)$. A segunda semirreta, vermelha e rotulada como $y_2$, passa pelo ponto $C(40, 30)$. O plano possui uma malha quadriculada pontilhada de fundo.]
+
+Nesse mesmo intervalo de tempo, a temperatura $y_2$, em grau Celsius, aumentou
+
+A) $5$.
+B) $10$.
+C) $15$.
+D) $20$.
+E) $50$.

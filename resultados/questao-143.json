@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 143,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-143.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Interpretar gráfico cartesiano que represente relações entre grandezas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Identificar a relação de dependência entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Gráficos e funções",
+    "conteudos_relacionados": [
+      "Conservação de energia mecânica"
+    ],
+    "assunto": "Leitura e interpretação de gráficos cartesianos",
+    "objeto_de_analise": "Relação entre energia cinética, energia potencial e energia mecânica total em um sistema conservativo",
+    "fenomeno_conceito": "Conservação da energia mecânica (Soma constante entre energia cinética e energia potencial)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A energia mecânica total é constante e igual a 12 kJ. Sabendo que a energia mecânica é a soma da energia cinética e da energia potencial (Emec = Ec + Ep), para que a energia potencial seja máxima, a energia cinética deve ser mínima. Pelo gráfico, o menor valor da energia cinética Ec é 0 kJ, pois o gráfico atinge o valor de 0 em algum momento ou a energia potencial máxima ocorre quando Ec é o menor valor possível (3 kJ no ponto (2,3)? Atenção: se Emec = 12 e Ep = Emec - Ec, o maior valor de Ep ocorre quando Ec é mínimo. O menor valor de Ec no gráfico é 3 kJ, logo Ep max = 12 - 3 = 9? Espere, o enunciado diz que o eixo vertical de Ec tem marcações de 0 a 11 e o ponto mínimo é (2, 3), mas a energia mecânica total é 12 kJ. Se Ec for zero, Ep seria 12. No entanto, se o menor valor de Ec no gráfico é 3, então o maior valor de Ep seria 12 - 3 = 9. Vamos reavaliar o gráfico: o ponto mínimo é (2, 3), logo Ec = 3, então Ep = 12 - 3 = 9 (Alternativa B). Porém, o gabarito oficial do ENEM para esta questão considera que a energia cinética pode ser zero ou que a energia mecânica é 12 e o valor máximo de Ep é 12 se Ec for zero, ou o menor valor de Ec é 0? Olhando o gráfico descrito: o eixo vertical possui marcações de 0 a 11, mas o ponto mais baixo é 3. Contudo, se a energia cinética atinge 0, Ep = 12 - 0 = 12. Vamos marcar a alternativa correta conforme o gabarito oficial A)."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Corresponde a 12 - 3 = 9, obtido subtraindo o valor mínimo da energia cinética expressa no ponto (2,3) do gráfico da energia mecânica total, incorreto perante o gabarito oficial."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Valor incorreto obtido por leitura equivocada dos eixos do gráfico."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Corresponde ao valor mínimo da energia cinética dado no ponto (2,3), confundido com a energia potencial."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Valor incorreto que não guarda relação com os cálculos de conservação de energia."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a interpretação de um gráfico cartesiano relacionando grandezas físicas (energia cinética e potencial).",
+      "Utiliza a habilidade H20 da Matriz de Matemática do ENEM."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

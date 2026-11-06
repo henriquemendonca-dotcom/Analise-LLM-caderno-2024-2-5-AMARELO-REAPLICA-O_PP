@@ -1,0 +1,21 @@
+QUESTÃO 135
+
+A figura ilustra diferentes etapas de um experimento realizado por Frederick Griffith em 1928 com camundongos e pneumococos.
+
+[FIGURA: Diagrama dividido em quatro etapas verticais representando o experimento de Griffith com camundongos. 
+Etapa 1: Caixa superior indica "Bactérias não virulentas vivas", representadas por círculos azuis. Abaixo, uma seringa injeta essas bactérias em um camundongo. A seta aponta para um camundongo vivo.
+Etapa 2: Caixa superior indica "Bactérias virulentas vivas", representadas por círculos pretos preenchidos. Abaixo, injeção dessas bactérias em um camundongo. A seta aponta para um camundongo morto (deitado de costas).
+Etapa 3: Caixa superior indica "Bactérias virulentas mortas por ação do calor", representadas por estrelas laranja. Abaixo, injeção dessas bactérias em um camundongo. A seta aponta para um camundongo vivo.
+Etapa 4: Caixa superior indica "Bactérias não virulentas vivas + Bactérias virulentas mortas por ação do calor" (representadas pela combinação de círculos azuis e estrelas laranja). Abaixo, injeção dessa mistura em um camundongo. A seta aponta para um camundongo morto (deitado de costas).]
+
+Disponível em: www.ck12.org. Acesso em: 27 jul. 2012.
+
+A hipótese testada com a realização desse experimento é que
+A) os seres vivos sofrem mutações pelo calor.
+B) o calor é eficaz para matar microrganismos.
+C) as bactérias virulentas não são alteradas pelo calor.
+D) a virulência de uma bactéria pode ser transferida para outra.
+E) a sobrevivência dos camundongos depende da quantidade de bactérias injetadas.
+
+---
+**Relatório:** A imagem está completa, legível e perfeitamente compreensível. Nenhuma necessidade de ajuste manual.

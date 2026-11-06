@@ -1,0 +1,15 @@
+QUESTÃO 137
+
+Apesar de a participação das mulheres no mercado de trabalho ter crescido ao longo dos anos, ainda existe uma grande diferença salarial entre homens e mulheres. Os dados do Cadastro Geral de Empregados e Desempregados (Caged) apresentados no gráfico mostram a evolução da diferença salarial de contratação, com medições feitas de dois em dois anos.
+
+**[FIGURA: Gráfico de linhas duplo mostrando a evolução salarial de homens (linha azul superior) e mulheres (linha vermelha inferior) de 2003 a 2015, com medições bienais. Eixo horizontal (anos): 2003, 2005, 2007, 2009, 2011, 2013, 2015. Valores para Homens: 2003 (883), 2005 (957), 2007 (1 048), 2009 (1 107), 2011 (1 201), 2013 (1 292), 2015 (1 306). Valores para Mulheres: 2003 (826), 2005 (874), 2007 (953), 2009 (987), 2011 (1 043), 2013 (1 117), 2015 (1 142).]**
+
+Disponível em: http://classificados.folha.uol.com.br. Acesso em: 21 jun. 2017 (adaptado).
+
+De acordo com os dados fornecidos, qual valor mais se aproxima da diferença salarial média entre homens e mulheres nesse período?
+
+A) 121,7
+B) 120,0
+C) 110,5
+D) 82,0
+E) 65,5

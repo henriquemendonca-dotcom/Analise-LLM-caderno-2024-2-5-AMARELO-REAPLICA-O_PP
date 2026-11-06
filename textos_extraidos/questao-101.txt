@@ -1,0 +1,15 @@
+QUESTÃO 101
+
+Aquecedores elétricos utilizam resistência de fio, suportando uma corrente máxima dimensionada pelo fabricante. O dimensionamento original do circuito elétrico de um aquecedor, esquematizado na figura, foi utilizado para provocar a elevação de temperatura em um volume de água, durante um determinado intervalo de tempo.
+
+[FIGURA: Diagrama de um circuito elétrico fechado em formato retangular contendo uma fonte de tensão rotulada como "V" no ramo esquerdo, um resistor de $40\ \Omega$ no ramo direito, e uma seta no ramo superior indicando uma corrente elétrica da esquerda para a direita com o valor de $4\text{ A}$.]
+
+Caso se pretenda utilizar uma tensão de $250\text{ V}$, o circuito precisará ser redimensionado, para garantir o correto funcionamento do aquecedor. A corrente deve ser mantida, considerando-se o aquecimento do mesmo volume de água, à mesma temperatura, durante o mesmo intervalo de tempo.
+
+Nesse redimensionamento, deve-se acrescentar ao circuito um resistor de
+
+A) $22,5\ \Omega$ em paralelo.
+B) $22,5\ \Omega$ em série.
+C) $71,1\ \Omega$ em paralelo.
+D) $71,1\ \Omega$ em série.
+E) $101,1\ \Omega$ em paralelo.

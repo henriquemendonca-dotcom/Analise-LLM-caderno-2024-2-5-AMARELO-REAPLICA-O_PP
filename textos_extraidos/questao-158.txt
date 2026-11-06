@@ -1,0 +1,21 @@
+QUESTÃO 158
+
+Um garrafão, cujas seções transversais são circunferências, encontra-se cheio de água. Ao ser acoplado a um bebedouro, ficou com sua base voltada para cima e paralela ao chão. A torneira desse bebedouro foi aberta para escoar toda a água desse garrafão com vazão constante. A vista frontal do garrafão é apresentada na figura.
+
+[FIGURA: Vista frontal esquemática de um garrafão posicionado de cabeça para baixo (base maior para cima, gargalo para baixo). O garrafão é composto por quatro partes empilhadas verticalmente, indicadas por setas: 
+1. No topo (agora a base), um "Cilindro circular reto" menor.
+2. Abaixo dele, um "Cilindro circular reto" maior (o corpo principal superior).
+3. Na parte inferior, uma "Zona esférica" (fundo do garrafão original, que agora se afunila).
+4. Na base inferior (agora o topo, onde há setas apontando para baixo indicando o escoamento), um "Cilindro circular reto" correspondente ao gargalo.]
+
+O gráfico que melhor representa a variação da altura $h$ da água no garrafão, em função do tempo $t$, é
+
+A [FIGURA: Gráfico cartesiano com altura $h$ no eixo vertical e tempo $t$ no eixo horizontal. A curva em vermelho começa no eixo $h$, desce inicialmente em linha reta (com inclinação moderada), depois faz uma transição suave e curvada para baixo (côncava para cima), terminando no eixo $t$.]
+
+B [FIGURA: Gráfico cartesiano com altura $h$ no eixo vertical e tempo $t$ no eixo horizontal. A curva em vermelho começa no eixo $h$, desce em linha reta, depois há uma quebra de inclinação tornando-se mais inclinada para baixo (côncava para baixo) e finaliza com um pequeno segmento reto até o eixo $t$.]
+
+C [FIGURA: Gráfico cartesiano com altura $h$ no eixo vertical e tempo $t$ no eixo horizontal. A curva em vermelho começa no eixo $h$ com uma leve curvatura, depois desce muito abruptamente quase na vertical (côncava para a esquerda) e suaviza próximo ao eixo $t$.]
+
+D [FIGURA: Gráfico cartesiano com altura $h$ no eixo vertical e tempo $t$ no eixo horizontal. A curva em vermelho começa no eixo $h$ descendo em linha reta, passa por um ponto de inflexão e desce muito rapidamente formando uma curva acentuada (côncava para baixo) antes de tocar o eixo $t$.]
+
+E [FIGURA: Gráfico cartesiano com altura $h$ no eixo vertical e tempo $t$ no eixo horizontal. A curva em vermelho começa no eixo $h$, desce em linha reta, passa por uma quina e continua descendo com menor inclinação em segmentos suavemente curvos até tocar o eixo $t$.]

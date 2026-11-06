@@ -1,0 +1,79 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 161,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-161.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar características de figuras planas ou espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Teorema de Pitágoras",
+      "Área de figuras planas"
+    ],
+    "assunto": "Geometria Plana",
+    "objeto_de_analise": "Área de quadrilátero com diagonais perpendiculares (pipa)",
+    "fenomeno_conceito": "Relações métricas no triângulo retângulo e cálculo de área de polígonos"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2025-05-01T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige o cálculo da área de uma pipa (quadrilátero com diagonais perpendiculares), utilizando o Teorema de Pitágoras nos triângulos retângulos formados pelas diagonais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

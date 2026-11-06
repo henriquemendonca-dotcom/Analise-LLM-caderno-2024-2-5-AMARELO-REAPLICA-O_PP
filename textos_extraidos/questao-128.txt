@@ -1,0 +1,15 @@
+QUESTÃO 128
+
+Pesquisadores da Universidade de Wisconsin-Madison, nos Estados Unidos, desenvolveram um dessalinizador-pilha. O invento se mostrou muito promissor para dessalinizar água do mar, empregando eletrodos com bismuto e titânio em suas composições. Para realizar a dessalinização, o dispositivo funciona por eletrólise, conforme a figura. No descarregamento do dispositivo ocorre o processo inverso, que permite reaproveitar a energia, como em uma pilha.
+
+[FIGURA: Diagrama esquemático de um processo de dessalinização por eletrólise. A imagem mostra dois momentos principais conectados por uma seta azul apontando para a direita. Na primeira parte, há um recipiente rotulado como "Água salgada" contendo dois eletrodos submersos em uma solução eletrolítica. O eletrodo à esquerda é o ânodo (marcado com o sinal positivo "+"), feito de bismuto (Bi), para onde íons cloreto (Cl⁻) se direcionam, indicados por setas. O eletrodo à direita é o cátodo (marcado com o sinal negativo "-"), feito de um composto contendo sódio, titânio e fosfato (NaTi₂(PO₄)₃), para onde íons sódio (Na⁺) se direcionam, também indicados por setas. Acima, há setas indicando o fluxo de elétrons (e⁻) de um eletrodo ao outro através de uma fonte externa. A segunda parte do diagrama mostra o resultado após o processo: um recipiente com "Água dessalinizada" somado a dois eletrodos modificados, um rotulado como BiOCl e outro como Na₃Ti₂(PO₄)₃.]
+
+NAM, D.-H.; CHOI, K.-S. Bismuth as a New Chloride-Storage Electrode Enabling the Construction of a Practical High-Capacity Desalination Battery. **Journal of the American Chemical Society**, n. 139, 2017 (adaptado).
+
+Durante a dessalinização da água por eletrólise ocorre a formação de
+
+A) BiOCl no ânodo.
+B) H₂ (g) no cátodo.
+C) Bi no polo positivo.
+D) O₂ (g) no polo negativo.
+E) Na₃Ti₂(PO₄)₃ no ânodo.

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 95,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-95.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H30",
+      "descricao": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H29",
+        "descricao": "Interpretar experimentos ou técnicas que utilizam seres vivos, analisando implicações para o ambiente, a saúde, a produção de alimentos, matérias primas ou produtos industriais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia Molecular e Genética",
+    "conteudos_relacionados": [
+      "Biotecnologia"
+    ],
+    "assunto": "Terapia gênica",
+    "objeto_de_analise": "Uso de vírus geneticamente modificados para correção de problemas genéticos",
+    "fenomeno_conceito": "Correção de mutações genéticas através da inserção de genes funcionais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A utilização de vírus geneticamente modificados para inserir material genético funcional em células de um organismo a fim de corrigir uma condição genética anômala define a técnica de terapia gênica."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A marcação molecular é utilizada para identificar sequências específicas de DNA em exames diagnósticos ou mapeamento, não corrigindo problemas genéticos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A clonagem terapêutica envolve a produção de embriões para obtenção de células-tronco com finalidade de tratamento, e não a injeção de vírus para correção genética direta in vivo."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A hibridização genômica é uma técnica analítica usada para detectar alterações no DNA, como perdas ou ganhos cromossômicos, e não uma técnica de correção."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O sequenciamento gênico refere-se à determinação da ordem dos nucleotídeos em uma molécula de DNA, sendo um método de análise e não de intervenção terapêutica."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a aplicação da biotecnologia na saúde, especificamente o uso de vetores virais para correção de disfunções genéticas.",
+      "A alternativa A descreve corretamente a terapia gênica."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

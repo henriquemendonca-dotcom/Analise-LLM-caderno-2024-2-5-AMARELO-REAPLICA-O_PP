@@ -1,0 +1,13 @@
+QUESTÃO 122
+
+A utilização de fusíveis em equipamentos eletrônicos é fundamental para a sua preservação. De forma simplificada, esse dispositivo é composto de terminais metálicos, conectados por um fio condutor envolvido por um corpo de vidro, como ilustrado na figura. A passagem de corrente elétrica gera calor por efeito Joule, o que provoca um aumento local na temperatura. Considere que são necessários, em média, 4 A de corrente para a elevação da temperatura em 1 °C. As temperaturas de fusão de diferentes materiais são apresentadas a seguir.
+
+**[FIGURA: Ilustração esquemática de um fusível elétrico cilíndrico na horizontal. O dispositivo possui terminais metálicos nas extremidades laterais (apontados por setas vermelhas inferiores como "Terminais elétricos"), um corpo central de vidro transparente (apontado por seta como "Vidro") e, no interior, um fio condutor fino que conecta os terminais (apontado por seta como "Material condutor"). Abaixo, há uma tabela intitulada "Temperatura de fusão dos materiais" com duas linhas e seis colunas. A primeira coluna lista "Material" e "Temperatura de fusão (°C)". As colunas seguintes mostram os dados para cinco elementos: Fr (27 °C), Sn (232 °C), Zn (420 °C), Ag (960 °C) e Si (1 400 °C).]**
+
+Para um equipamento que deve operar com uma corrente menor que 1 000 A, o material adequado para o fusível é o(a)
+
+A) estanho.
+B) frâncio.
+C) prata.
+D) silício.
+E) zinco.

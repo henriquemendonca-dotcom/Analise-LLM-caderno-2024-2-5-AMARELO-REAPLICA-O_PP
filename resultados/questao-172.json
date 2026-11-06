@@ -1,0 +1,89 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 172,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-172.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [
+      "Operações em conjuntos numéricos"
+    ],
+    "assunto": "Cálculo de capacidade de refrigeração (BTUh)",
+    "objeto_de_analise": "Demanda de BTUh por área, pessoas e aparelhos eletrônicos",
+    "fenomeno_conceito": "Proporcionalidade direta"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024.03",
+    "datetime": "2024-12-08T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A questão envolve o cálculo de grandezas numéricas e proporções lineares aplicadas a uma situação prática.",
+      "A área da sala é dada por 6 vezes 4 = 24 metros quadrados, que demandam 24 vezes 600 = 14400 BTUh.",
+      "O condicionador de ar tem capacidade total de 24600 BTUh.",
+      "A capacidade restante para pessoas e computadores é 24600 - 14400 = 10200 BTUh.",
+      "Cada pessoa adicional e cada computador ligado exigem 600 BTUh cada. Como cada funcionário usa um único computador, o par funcionário-computador demanda 600 + 600 = 1200 BTUh.",
+      "O número total de pessoas na sala será de 5 atuais mais x novos funcionários. O número total de computadores será 5 atuais mais x novos computadores.",
+      "A demanda total para pessoas é (5 + x) * 600 e para computadores é (5 + x) * 600.",
+      "Equação: 14400 + (5 + x) * 600 + (5 + x) * 600 <= 24600",
+      "14400 + 1200 * (5 + x) <= 24600",
+      "1200 * (5 + x) <= 10200",
+      "5 + x <= 8.5",
+      "Como x deve ser inteiro, 5 + x <= 8, logo x <= 3 novos funcionários? Recalculando: Sala de 24 m2 -> 24 * 600 = 14400. Capacidade restante = 24600 - 14400 = 10200. Cada funcionário mais um computador exige 600 (pessoa) + 600 (computador) = 1200 BTUh. Já existem 5 pessoas e 5 computadores ocupando 5 * 1200 = 6000 BTUh. Capacidade disponível para novos: 10200 - 6000 = 4200 BTUh. Como cada novo funcionário (com 1 computador) demanda 1200 BTUh, 4200 / 1200 = 3.5, logo no máximo 3 novos funcionários. Espera, o enunciado diz que a base é 1 pessoa e cada pessoa A MAIS exige 600, e cada eletrônico exige 600. Vamos reler: 'em um ambiente fechado de altura padrão, com uma única pessoa, cada metro quadrado de área do piso demanda 600 BTUh... e para cada pessoa a mais... exige-se mais 600 BTUh. Além disso, cada aparelho eletrônico ligado demanda mais 600 BTUh.' Portanto, 1 pessoa base já está coberta pelo custo da área (1 pessoa e 0 eletrônicos já embutidos na conta da área?). Não, o texto diz: 'com uma única pessoa, cada metro quadrado de área do piso demanda 600 BTUh... e para cada pessoa a mais... exige-se mais 600 BTUh.' Então 1 pessoa consome 0 extra além da área? Vamos checar o gabarito D (7). Se a base é 24 * 600 = 14400 para 1 pessoa e 0 eletrônicos. Se houver 5 pessoas e 5 computadores: a primeira pessoa consome 0 extra, 4 pessoas a mais consomem 4 * 600 = 2400. 5 computadores consomem 5 * 600 = 3000. Total atual = 14400 + 2400 + 3000 = 19800. Restante = 24600 - 19800 = 4800. Dividido por (600 da pessoa + 600 do computador = 1200) = 4800 / 1200 = 4 novos funcionários. 4 + 3 = 7. Gabarito D."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

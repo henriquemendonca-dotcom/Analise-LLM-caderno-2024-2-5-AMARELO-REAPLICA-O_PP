@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 125,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-125.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Química Orgânica",
+    "conteudos_relacionados": [
+      "Reações Orgânicas",
+      "Polímeros"
+    ],
+    "assunto": "Reciclagem química de polímeros",
+    "objeto_de_analise": "Esquema de reação de degradação do PET",
+    "fenomeno_conceito": "Reação de hidrólise de ésteres"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A reação apresentada mostra a quebra da cadeia do poliéster (PET) na presença de água e catalisador, gerando ácidos carboxílicos e álcoois, o que caracteriza uma hidrólise."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A eterificação é a formação de éteres a partir de álcoois, o que não ocorre no processo descrito."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A esterificação é a reação entre um ácido carboxílico e um álcool para formar um éster e água, que é o inverso da reação de reciclagem apresentada."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A neutralização ocorre entre um ácido e uma base, não sendo o processo fundamental demonstrado na quebra da macromolécula por ação da água."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A transesterificação envolve a troca de grupos entre um éster e um álcool, mas o reagente principal consumido na quebra da cadeia do polímero no esquema é a água."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a reciclagem química do PET através da reação com água.",
+      "A reação de quebra de ésteres pela água é a hidrólise."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

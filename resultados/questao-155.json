@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 155,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-155.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Identificar a relação de dependência entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Grandezas proporcionais",
+    "conteudos_relacionados": [
+      "Regra de três composta"
+    ],
+    "assunto": "Razões e proporções",
+    "objeto_de_analise": "Rendimento de equipes de trabalho em função do número de pedreiros, dias, horas diárias e área construída",
+    "fenomeno_conceito": "Proporcionalidade direta entre a produção de trabalho e os fatores produtivos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Valor incorreto resultante de erro no cálculo da regra de três composta."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Valor incorreto resultante de erro no cálculo da regra de três composta."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Valor incorreto resultante de erro no cálculo da regra de três composta."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Valor incorreto resultante de erro no cálculo da regra de três composta."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "analise": "A equipe II construiu 312 metros quadrados. A diferença para os 36 metros quadrados da equipe I é de 276 metros quadrados."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda grandezas proporcionais diretamente relacionadas, exigindo o uso de regra de três composta para determinar a produção da equipe II e a diferença em relação à equipe I."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,20 @@
+QUESTÃO 157
+
+Uma escala termométrica X marca $-10\text{ }^\circ\text{X}$ para o ponto de fusão da água e $140\text{ }^\circ\text{X}$ para o seu ponto de ebulição. Na escala Celsius, as temperaturas de fusão e de ebulição da água são $0\text{ }^\circ\text{C}$ e $100\text{ }^\circ\text{C}$, respectivamente. O gráfico que expressa a relação entre essas duas escalas é uma reta.
+
+A figura apresenta a representação de cinco gráficos (I, II, III, IV e V) num sistema de coordenadas cartesianas.
+
+**[FIGURA: Gráfico cartesiano contendo cinco retas rotuladas de I a V. O eixo horizontal (abscissa) representa a temperatura T em $^\circ\text{C}$ e o eixo vertical (ordenada) representa a temperatura T em $^\circ\text{X}$. O eixo vertical mostra marcações em $-10$, $0$, $100$ e $140$. O eixo horizontal mostra marcações em $0$, $100$ e $140$. Linhas tracejadas conectam os pontos $(0, -10)$, $(100, 140)$, entre outros.
+- A reta I (azul escura) tem inclinação suave e positiva, passando pelos pontos $(140, 100)$.
+- A reta II (azul clara/média) tem inclinação acentuada e positiva, passando pelos pontos $(100, 140)$.
+- A reta III (vermelha) tem inclinação acentuada e negativa, passando por $(0, 100)$ e $(100, -10)$ aproximadamente.
+- A reta IV (azul clara) tem inclinação suave e negativa.
+- A reta V (amarela/laranja) passa pelos pontos $(0, -10)$ e $(100, 100)$ ou similar, tendo inclinação intermediária positiva.]**
+
+Qual gráfico representa a relação entre as temperaturas nas escalas Celsius e X?
+
+A) I
+B) II
+C) III
+D) IV
+E) V

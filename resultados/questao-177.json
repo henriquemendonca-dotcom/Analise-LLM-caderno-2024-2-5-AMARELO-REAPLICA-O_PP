@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 177,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-177.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Utilizar a noção de escalas na leitura de representação de situação do cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Identificar relações entre grandezas e unidades de medida."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razão e Proporção",
+    "conteudos_relacionados": [
+      "Escalas",
+      "Geometria Plana"
+    ],
+    "assunto": "Escala de ampliação e redução",
+    "objeto_de_analise": "Dimensões da tela e do quadro original para determinar a escala máxima mantendo a proporção",
+    "fenomeno_conceito": "Razão entre as medidas do desenho e do objeto real"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Resultado obtido por cálculo incorreto das proporções."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "analise": "Correta. Convertendo as dimensões da obra original para centímetros (360 cm por 780 cm), a razão com a tela de 20 cm por 30 cm deve ser testada. Para a altura: 20 / 360 = 1 / 18. Para o comprimento: 30 / 780 = 1 / 26. Como a reprodução deve preencher a maior área possível mantendo a proporção sem exceder a tela, utiliza-se a menor razão limitante, que é 1 : 18."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. Resultado de erro aritmético."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Resultado de erro aritmético."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. Corresponde apenas à razão do comprimento (30 / 780 = 1 / 26), o que faria a altura ultrapassar o limite da tela (360 / 26 = 13,84 cm, menor que 20 cm, mas se invertido estoura a outra dimensão)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-10T15:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda o cálculo de escala envolvendo grandezas de comprimento.",
+      "A matriz de matemática contempla explicitamente a habilidade H11 sobre o uso de escalas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 151,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-151.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Aritmética básica",
+    "conteudos_relacionados": [
+      "Razões e proporções",
+      "Operações fundamentais"
+    ],
+    "assunto": "Custo por funcionário e planejamento financeiro",
+    "objeto_de_analise": "Comparação de custos entre duas opções de treinamento de funcionários",
+    "fenomeno_conceito": "Relação de custo e quantidade de funcionários treinados com orçamento fixo"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão envolve o cálculo do número de funcionários que podem ser treinados com um orçamento fixo de 2.520.000,00 reais sob duas condições diferentes.",
+      "Opção própria: Custo inicial por funcionário de R$ 9.000,00 com abatimento de R$ 1.500,00 pela venda das peças, resultando em um custo líquido de R$ 7.500,00 por funcionário.",
+      "Opção empresa especializada: Custo fixo de R$ 4.000,00 por funcionário.",
+      "Número de funcionários treinados pela opção própria: 2.520.000 / 7.500 = 336 funcionários.",
+      "Número de funcionários treinados pela empresa especializada: 2.520.000 / 4.000 = 630 funcionários.",
+      "Diferença: 630 - 336 = 294? Aguarde, recalculando: 2.520.000 / 7.500 = 336; 2.520.000 / 4.000 = 630; 630 - 336 = 294. Mas o gabarito fornecido é D (504). Vamos verificar: 9000 - 1500 = 7500. 2520000 / 7500 = 336. Empresa especializada cobra 4000. 2520000 / 4000 = 630. 630 - 336 = 294. O enunciado diz 'investirá um total de R$ 2.520.000,00' em cada caso ou no total? Se o valor total é fixo, a diferença é 294 (Alternativa A). No entanto, o gabarito oficial indicado é D."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

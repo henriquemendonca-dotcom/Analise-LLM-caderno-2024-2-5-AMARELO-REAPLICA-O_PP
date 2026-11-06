@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 165,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-165.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar características de figuras planas ou espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geometria Espacial",
+    "conteudos_relacionados": [
+      "Geometria Plana"
+    ],
+    "assunto": "Cilindros e Paralelepípedos",
+    "objeto_de_analise": "Dimensões da menor caixa prismática de base quadrada que envolve um cilindro circular reto",
+    "fenomeno_conceito": "Inscrição de sólidos geométricos e otimização de espaço"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T12:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "O cilindro possui raio externo da base igual a 25 cm, logo o diâmetro da base mede 50 cm.",
+      "A caixa tem formato de paralelepípedo retangular reto de base quadrada e deve ser a menor possível para conter o cilindro.",
+      "O lado da base quadrada da caixa deve ser igual ao diâmetro da base do cilindro quando considerado na diagonal ou equivalente ao diâmetro, mas como a caixa tem base quadrada e o cilindro é inscrito, o lado do quadrado deve acomodar o diâmetro do círculo, sendo equivalente a 2 vezes o raio vezes a raiz de 2, ou seja, 25 x raiz de 2 aproximadamente 35 cm."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "INEP"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

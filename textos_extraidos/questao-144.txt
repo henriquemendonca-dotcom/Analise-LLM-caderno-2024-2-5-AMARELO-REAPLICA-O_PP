@@ -1,0 +1,11 @@
+QUESTÃO 144
+
+Visando obter créditos de carbono, uma empresa, emissora de gases de efeito estufa, elabora um projeto de reflorestamento em uma área desmatada. De acordo com o projeto, no primeiro ano serão reflorestados 500 hectares. A partir daí, a cada ano, a área total reflorestada será aumentada em 50% em relação ao ano anterior.
+
+A expressão algébrica que representa a área total reflorestada ($A_n$), em hectare, ao final de n anos é
+
+Ⓐ $A_n = 500 \cdot 0,5^{n-1}$
+Ⓑ $A_n = 500 \cdot 1,5^{n-1}$
+Ⓒ $A_n = 500 + n \cdot 250$
+Ⓓ $A_n = 500 \cdot (1 + 0,5^{n-1})$
+Ⓔ $A_n = 500 + (n - 1) \cdot 250$

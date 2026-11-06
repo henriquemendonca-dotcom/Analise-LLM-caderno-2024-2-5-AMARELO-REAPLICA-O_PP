@@ -1,0 +1,15 @@
+QUESTÃO 119
+
+Um experimento foi montado com o intuito de determinar o tempo de queda livre de corpos com tamanhos e massas distintas. Para isso, utilizou-se uma prateleira a $50,0\text{ cm}$ do chão, onde foram colocadas três frutas, conforme a figura. Em um determinado instante, a prateleira foi removida, liberando todas as frutas simultaneamente.
+
+[FIGURA: Ilustração mostrando uma prateleira horizontal de madeira apoiada a uma altura de $50,0\text{ cm}$ em relação ao chão. Sobre a prateleira, da esquerda para a direita, estão dispostas três frutas de tamanhos e massas diferentes: uma melancia grande (à esquerda), um melão médio (ao centro) e uma maçã pequena (à direita).]
+
+Considere o tempo de queda da melancia como $t_1$, do melão como $t_2$ e da maçã como $t_3$.
+
+Desprezando-se as forças dissipativas, a relação entre os tempos de queda das frutas é
+
+A) $t_1 = t_2 = t_3$.
+B) $t_1 > t_2 > t_3$.
+C) $t_1 < t_2 < t_3$.
+D) $t_1 > t_2 < t_3$.
+E) $t_1 < t_2 > t_3$.

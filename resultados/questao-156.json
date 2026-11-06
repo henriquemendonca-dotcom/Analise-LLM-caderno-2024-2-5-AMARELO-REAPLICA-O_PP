@@ -1,0 +1,82 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 156,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-156.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Identificar a relação de dependência entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [
+      "Grandezas diretamente e inversamente proporcionais",
+      "Regra de três composta"
+    ],
+    "assunto": "Proporcionalidade",
+    "objeto_de_analise": "Análise da variação de grandezas em problemas de proporcionalidade",
+    "fenomeno_conceito": "Relação de dependência entre tempo, quantidade de trabalhadores e quantidade de produção"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a variação de grandezas proporcionais em um contexto de trabalho, tempo e produção.",
+      "Na situação I, o tempo dobra (de 1 para 2 semanas) e o número de voluntários permanece o mesmo. Com mais tempo e o mesmo número de voluntários, o número de estandes montados será maior.",
+      "Na situação II, o tempo dobra (de 1 para 2 semanas) e o número de estandes permanece o mesmo. Como o tempo disponível aumentou para realizar a mesma quantidade de trabalho, o número de voluntários necessários será menor.",
+      "Isso corresponde exatamente à alternativa B."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,14 @@
+QUESTÃO 99
+
+Ao respirarmos, falarmos, tossirmos ou espirrarmos, liberamos gotículas e aerossóis. Se estamos com alguma infecção respiratória viral, vírus estarão contidos ali. Estima-se que uma pessoa com covid-19 falando alto por 1 minuto pode gerar mais de 1000 partículas de aerossóis, o que poderia levar à liberação de mais de 100000 partículas virais de SARS-CoV-2. O uso de máscaras pela população pode auxiliar na redução da transmissão desse vírus, conforme representado na figura.
+
+**[FIGURA: Ilustração dividida em duas partes comparando a transmissão de vírus por meio de aerossóis. Na parte superior, intitulada "Pessoa infectada assintomática" (uma mulher sem máscara, de perfil), expele uma grande quantidade de partículas azuis (gotículas/aerossóis) em direção a duas "Pessoas saudáveis" (uma usando máscara cinza e outra sem máscara). Há uma legenda abaixo indicando "Exposição máxima". Na parte inferior, a "Pessoa infectada assintomática" aparece usando máscara cinza, expelindo um número drasticamente reduzido de partículas azuis em direção às duas pessoas (uma com máscara e outra sem). Há uma legenda abaixo indicando "Exposição mínima".]**
+
+Disponível em: www.blogs.unicamp.br. Acesso em: 17 dez. 2021 (adaptado).
+
+As máscaras auxiliam no controle dessa doença, pois
+A) neutralizam as partículas virais presentes nas gotículas e aerossóis.
+B) fornecem uma barreira de proteção contra as partículas virais liberadas no ar.
+C) reduzem a quantidade de vírus nas gotículas produzidas durante a respiração.
+D) permitem que os indivíduos infectados inspirem e expirem menos partículas virais.
+E) mantêm afastados os indivíduos não infectados daqueles que já foram infectados.

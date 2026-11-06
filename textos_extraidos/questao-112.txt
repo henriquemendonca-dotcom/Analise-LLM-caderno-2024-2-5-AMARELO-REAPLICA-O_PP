@@ -1,0 +1,21 @@
+QUESTÃO 112
+
+Os satélites em órbitas geoestacionárias ocupam uma posição fixa em relação à superfície da Terra e, por isso, podem ser usados como sistemas de comunicação. Pela limitação de espaço, o número de satélites que podem ser posicionados numa órbita é finito. O lançamento de um satélite geoestacionário envolve três etapas:
+
+* Lança-se o satélite da base terrestre até uma órbita circular próxima (órbita $R_1$).
+* No estágio de propulsão, aplica-se um impulso tangencial à trajetória no ponto **A**, mudando-se para uma órbita elíptica até o satélite atingir o ponto **B**, que coincide com o raio de sua órbita geoestacionária.
+* No ponto **B**, efetua-se uma mudança para a órbita circular $R_2$, aplicando-se um impulso tangente à trajetória.
+
+[FIGURA: Diagrama esquemático mostrando a Terra ao centro com raio $R = 6\,400\text{ km}$, rodeada por uma órbita circular interna azul $R_1$ a uma altitude de $300\text{ km}$ e raio total de $6\,700\text{ km}$, e uma órbita circular maior externa amarela $R_2$ a uma altitude de $36\,000\text{ km}$. Uma órbita de transferência elíptica em vermelho conecta o ponto A na órbita menor ao ponto B na órbita maior. Setas indicam o sentido de movimento nas órbitas.]
+
+Identificando a órbita interna como $R_1$, a órbita geoestacionária como $R_2$ e a órbita elíptica como $E$, as energias mecânicas do satélite nas três órbitas são identificadas, respectivamente, como $E_1$, $E_2$ e $E_{\text{E}}$.
+
+BEER, F. P. et al. **Vector Mechanics: Static and Dynamic**. Nova York: McGraw-Hill, 2009.
+
+A relação de comparação entre as energias mecânicas do satélite nas três órbitas é
+
+A) $E_2 > E_{\text{E}} > E_1$.
+B) $E_2 < E_{\text{E}} < E_1$.
+C) $E_1 = E_{\text{E}} < E_2$.
+D) $E_1 < E_{\text{E}} = E_2$.
+E) $E_1 > E_{\text{E}} = E_2$.

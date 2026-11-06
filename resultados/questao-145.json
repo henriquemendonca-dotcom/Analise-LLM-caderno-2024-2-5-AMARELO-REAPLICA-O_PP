@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 145,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-145.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Função Exponencial",
+    "conteudos_relacionados": [
+      "Progressões Geométricas",
+      "Modelagem Matemática"
+    ],
+    "assunto": "Desvalorização de bens e modelo exponencial",
+    "objeto_de_analise": "Previsão de valor de mercado com base no tempo decorrido",
+    "fenomeno_conceito": "Decaimento exponencial"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão apresenta uma relação de desvalorização modelada por uma função exponencial do tipo V(n) = V_0 * q^n.",
+      "O estudante deve identificar o fator de desvalorização q a partir dos dados fornecidos e calcular o valor do automóvel para n = 6."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

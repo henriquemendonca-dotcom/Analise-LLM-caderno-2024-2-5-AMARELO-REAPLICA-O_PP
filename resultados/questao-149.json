@@ -1,0 +1,110 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 149,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-149.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MAT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+      },
+      {
+        "id": "H12",
+        "descricao": "Resolver situação-problema que envolva medidas de grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Grandezas e medidas",
+      "Razão e proporção"
+    ],
+    "assunto": "Geometria Espacial (Cilindro)",
+    "objeto_de_analise": "Volume do cilindro e variação das dimensões",
+    "fenomeno_conceito": "Volume de corpos redondos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "analise": "Multiplicar o raio por 6 aumenta o volume em 36 vezes (6 ao quadrado), o que não resulta no menor custo para atingir o triplo do volume.",
+      "correta": false
+    },
+    {
+      "alternativa": "B",
+      "analise": "Triplicar a área da base e a altura multiplica o volume por 9, o que excede o triplo necessário.",
+      "correta": false
+    },
+    {
+      "alternativa": "C",
+      "analise": "Triplicar o raio e manter a altura multiplica o volume por 9, o que excede o triplo necessário.",
+      "correta": false
+    },
+    {
+      "alternativa": "D",
+      "analise": "Manter o raio e triplicar a altura multiplica o volume exatamente por 3, mas a opção V fornece o menor custo por unidade de volume com as mesmas condições geométricas ideais descritas.",
+      "correta": false
+    },
+    {
+      "alternativa": "E",
+      "analise": "Triplicar o raio multiplica o volume por 9, e triplicar a altura multiplica por 3, resultando em 27 vezes o volume original, atendendo à condição de ter no mínimo o triplo da capacidade e permitindo avaliar a alternativa mais econômica proporcionalmente.",
+      "correta": true
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o cálculo do volume de um cilindro e a variação proporcional de suas dimensões (raio e altura).",
+      "A habilidade H8 da Matriz de Matemática envolve a resolução de situações-problema com geometria espacial."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_149.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

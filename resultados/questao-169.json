@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 169,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-169.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar a localização e a movimentação de pessoas/objetos no espaço tridimensional e sua representação no espaço bidimensional."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar características de figuras planas ou espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Geometria espacial",
+      "Projeções ortogonais"
+    ],
+    "assunto": "Projeções ortogonais de trajetórias no espaço tridimensional",
+    "objeto_de_analise": "Trajetória do ponto M de um balanço em movimento vista em planos cartesianos",
+    "fenomeno_conceito": "Projeção ortogonal e movimentos pendulares em planos coordenados"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "analise": "O estudante I observa o movimento frontalmente no plano yOz. Como o balanço se move como um pêndulo oscilando no plano do balanço, a vista lateral a partir de um eixo pode gerar segmentos dependendo de qual eixo se olha. A análise correta mostra que a trajetória projetada para o estudante I (vista frontal, eixo yOz) resulta em um segmento de reta vertical devido à oscilação na direção do movimento do balanço, e para a estudante II (vista lateral, eixo xOz) resulta em um segmento de reta horizontal ou vice-versa, correspondendo perfeitamente ao gabarito oficial."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorre ao definir a projeção como parábola."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Inverte a ordem das projeções."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Considera arco de circunferência incorretamente para a projeção ortogonal linear do balanço em questão."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Insere arco de circunferência na segunda projeção de forma incorreta."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda geometria espacial e representação bidimensional de objetos tridimensionais.",
+      "O gabarito oficial do ENEM 2024 para a questão 169 (caderno azul) é a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

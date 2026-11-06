@@ -1,0 +1,13 @@
+QUESTÃO 146
+
+A partir de um exame clínico, ficou constatado que uma pessoa encontra-se com uma grave deficiência de vitaminas X e Y. Ela foi orientada a fazer 100% de reposição diária de cada vitamina. Devido à sua condição socioeconômica, ela só dispõe dos alimentos Z e W para suprir essa deficiência. Os alimentos Z e W custam, respectivamente, R$ 3,00 e R$ 8,00 por quilo. Segue um quadro com a porcentagem que cada 100 g desses dois alimentos fornece de cada vitamina.
+
+[FIGURA: Tabela com fundo verde-claro contendo 3 colunas e 3 linhas. A primeira coluna intitula-se "Vitamina" e lista "X" na primeira linha de dados e "Y" na segunda linha. A segunda coluna intitula-se "Alimento Z (% por 100 g)" e apresenta os valores "25" para a vitamina X e "0" para a vitamina Y. A terceira coluna intitula-se "Alimento W (% por 100 g)" e apresenta os valores "8" para a vitamina X e "16" para a vitamina Y.]
+
+O valor mínimo diário, em real, que a pessoa gastará para suprir suas necessidades de vitaminas X e Y, consumindo os alimentos Z e W, é
+
+A 5,00.
+B 5,60.
+C 6,10.
+D 6,20.
+E 10,00.

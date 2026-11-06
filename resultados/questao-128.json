@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 128,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-128.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Eletroquímica",
+    "conteudos_relacionados": [
+      "Eletrólise",
+      "Oxirredução"
+    ],
+    "assunto": "Dessalinização por eletrólise",
+    "objeto_de_analise": "Transformações Químicas e Energia",
+    "fenomeno_conceito": "Eletrólise e formação de produtos nos eletrodos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "analise": "Conforme o texto e a figura da questão, o ânodo é composto por bismuto (Bi) para onde os íons cloreto (Cl-) se direcionam, resultando na formação de BiOCl."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "O cátodo atrai íons sódio para formar Na3Ti2(PO4)3, e não ocorre a liberação de gás hidrogênio nesse processo descrito."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "O bismuto é consumido/modificado no ânodo para formar BiOCl, não sendo gerado bismuto puro no polo positivo."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "O polo negativo corresponde ao cátodo, onde ocorre a redução do titânio ou captação de íons sódio, sem liberação de O2."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "O composto Na3Ti2(PO4)3 é o produto gerado no descarregamento ou consumido no carregamento, mas o cátodo é onde ele atua, enquanto o ânodo é o bismuto."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A questão aborda o processo de eletrólise aplicado à dessalinização da água utilizando eletrodos de bismuto e titânio.",
+      "O diagrama esquemático mostra claramente que no ânodo (feito de Bi) ocorre a formação de BiOCl."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 127,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-127.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Compreender fenômenos decorrentes da interação entre a radiação e a matéria em suas manifestações em processos naturais ou tecnológicos, ou em suas implicações biológicas, sociais, econômicas ou ambientais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Fenômenos ondulatórios, óptica e radiação",
+    "conteudos_relacionados": [
+      "Interação entre radiação e matéria"
+    ],
+    "assunto": "Espectro eletromagnético e interação da luz com materiais",
+    "objeto_de_analise": "Espectros de emissão de lâmpadas de LED antes e depois da aplicação de um material filtrante ou conversor de comprimento de onda.",
+    "fenomeno_conceito": "Absorção e emissão de radiação luminosa por materiais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "A reflexão da luz azul apenas mudaria a direção da luz refletida, mas os gráficos mostram que a luz azul deixa de ser transmitida sem que haja aumento na reflexão difusa total descrita como ganho de intensidade no espectro amarelo."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "A difração está relacionada ao contorno de obstáculos e aberturas, não sendo o mecanismo principal de eliminação de uma faixa específica do espectro visível com aumento de outra."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "O enunciado e os gráficos mostram que o material elimina a luz azul (absorção) e intensifica o espectro na faixa do amarelo-alaranjado (emissão por luminescência ou fluorescência, típica de materiais recobridores de LED branco)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "A luz ultravioleta não é a emitida no segundo pico, pois o gráfico B mostra deslocamento para comprimentos de onda maiores (amarelo, laranja e vermelho), que possuem menor energia e maior comprimento de onda que o azul."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "A polarização restringe a direção de vibração do campo elétrico da onda luminosa, o que não altera drasticamente a distribuição de intensidades espectrais de comprimentos de onda específicos como exibido no gráfico."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O gabarito oficial do ENEM aponta a alternativa C como correta.",
+      "A habilidade H22 aborda diretamente a interação entre radiação e matéria."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

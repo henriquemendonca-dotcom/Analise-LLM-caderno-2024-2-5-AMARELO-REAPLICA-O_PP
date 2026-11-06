@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 122,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-122.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar the tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H21",
+        "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Efeito Joule",
+    "conteudos_relacionados": [
+      "Circuitos elétricos",
+      "Mudanças de estado físico"
+    ],
+    "assunto": "Fusíveis elétricos",
+    "objeto_de_analise": "Dimensionamento de fusível baseado na corrente limite e temperatura de fusão",
+    "fenomeno_conceito": "Efeito Joule e fusão térmica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Para 1000 A, a variação de temperatura seria de 250 °C, fundindo o estanho (232 °C), mas a temperatura ambiente inicial já faria o fusível queimar antes de atingir a operação segura, ou o valor não suporta a faixa adequada."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O frâncio possui temperatura de fusão muito baixa (27 °C), fundindo-se à temperatura ambiente."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Para 1000 A, a elevação de temperatura seria de 250 °C. Somada a 25 °C ambiente, atinge 275 °C, o qual é inferior à temperatura de fusão da prata (960 °C), logo o fusível não fundiria."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O silício possui ponto de fusão muito alto (1400 °C), não fundindo com a variação de temperatura calculada para a corrente máxima."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "Para uma corrente máxima de 1000 A, considerando que são necessários 4 A para elevar 1 °C, a variação máxima de temperatura será de 250 °C. Partindo de 25 °C ambiente, a temperatura final será de 275 °C. O material adequado deve ter ponto de fusão superior a essa temperatura operacional limite, mas que se rompa conforme o projeto. O zinco possui ponto de fusão de 420 °C, adequado para suportar a operação e romper antes de danos maiores."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "1.0",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o dimensionamento de um circuito elétrico e dispositivos de segurança.",
+      "Utiliza os conceitos de efeito Joule e mudança de estado físico."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_122.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 101,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-101.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar the tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H21",
+        "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Eletrodinâmica",
+    "conteudos_relacionados": [
+      "Circuitos elétricos",
+      "Lei de Ohm"
+    ],
+    "assunto": "Dimensionamento de circuitos elétricos e associação de resistores",
+    "objeto_de_analise": "Modificação de tensão e corrente em um circuito de aquecimento elétrico através da adição de resistor",
+    "fenomeno_conceito": "Resistor equivalente e corrente elétrica em circuitos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. O valor e o tipo de associação não correspondem aos cálculos para a nova tensão e corrente mantida."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. Adicionar um resistor em série aumentaria a resistência total e diminuiria a corrente."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. Valor calculado incorretamente para a associação em paralelo."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Associações em série não atendem às exigências de manter a mesma corrente com tensão superior sem alterar o funcionamento original do resistor principal."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "analise": "Correta. Com a tensão original de 160 V (calculada por U = R x i = 40 x 4) e a nova tensão de 250 V, a corrente total no circuito deve ser mantida em 4 A, exigindo uma resistência total de 62,5 ohms. Como a resistência original é de 40 ohms, precisamos de uma resistência equivalente menor, logo um resistor deve ser associado em paralelo. Calculando a resistência do resistor adicional, obtém-se aproximadamente 101,1 ohms."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 1.0,
+    "evidencias": [
+      "Aplicação da lei de Ohm para encontrar a tensão original.",
+      "Cálculo da resistência equivalente necessária para a nova tensão mantendo a corrente.",
+      "Determinação da associação em paralelo e cálculo do valor do resistor adicional."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 176,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-176.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+      },
+      {
+        "id": "H8",
+        "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geometria Espacial e Funções",
+    "conteudos_relacionados": [
+      "Razão e Proporção",
+      "Volume de Sólidos"
+    ],
+    "assunto": "Volume de pirâmides e semelhança de sólidos",
+    "objeto_de_analise": "Altura da coluna de líquido em função do tempo em um recipiente piramidal",
+    "fenomeno_conceito": "A variação do volume de um tronco de pirâmide ou pirâmide proporcional à altura ao cubo"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige a modelagem matemática relacionando volume, tempo, vazão e a geometria de uma pirâmide.",
+      "O volume da pirâmide é de 240 litros, o que equivale a 0,24 metros cúbicos.",
+      "A vazão é constante de 0,015 metros cúbicos por segundo, logo o volume em função do tempo t é V(t) = 0,015 t.",
+      "Utilizando a proporção entre o volume total e a altura total com o volume parcial e a altura parcial, temos que o volume é proporcional ao cubo da altura.",
+      "A alternativa D é a única que expressa corretamente a relação algébrica resultante."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

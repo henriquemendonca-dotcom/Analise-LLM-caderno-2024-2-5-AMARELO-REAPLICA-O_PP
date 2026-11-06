@@ -1,0 +1,19 @@
+QUESTÃO 176
+
+Um tanque de armazenamento de líquidos tem o formato de uma pirâmide reta de base quadrada, cujo plano que contém essa base é paralelo a um solo plano e horizontal. Esse tanque tem capacidade de 240 litros e altura de 2 metros. Inicialmente vazio, nele é despejado um líquido à vazão constante de $0,015\text{ m}^3/\text{s}$.
+
+Sabe-se que $1\text{ L} = 1\text{ dm}^3 = 0,001\text{ m}^3$.
+
+[FIGURA: Desenho em perspectiva de uma pirâmide reta de base quadrada invertida, ou seja, com a base maior no topo e o vértice apontado para baixo. A face frontal é preenchida na cor azul claro. Uma linha tracejada vertical indica a altura da pirâmide desde o centro da base até o vértice inferior.]
+
+Qual expressão fornece a altura, em metro, da coluna de líquido dentro desse tanque em função do tempo $t$, em segundo?
+
+A) $\sqrt[3]{\frac{t}{2}}$
+
+B) $\frac{\sqrt[3]{t}}{2}$
+
+C) $\frac{1}{10} \sqrt[3]{\frac{t}{2}}$
+
+D) $\frac{1}{10} \sqrt[3]{\frac{t}{8}}$
+
+E) $\frac{3}{10} \sqrt[3]{\frac{t}{2}}$

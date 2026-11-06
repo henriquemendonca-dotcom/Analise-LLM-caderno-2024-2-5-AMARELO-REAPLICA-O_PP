@@ -1,0 +1,15 @@
+QUESTÃO 110
+
+A evolução das populações envolve processos de variação e adaptação ao longo do tempo, podendo desencadear o surgimento de novas raças ou espécies a partir de uma preexistente. A grande diversidade de organismos presentes em nosso planeta pode ser explicada pela moderna teoria evolucionista, que associa o darwinismo aos conceitos de genética. Com base nesses conhecimentos, é possível realizar a reprodução diferencial de genótipos e a formação de raças com diferentes fenótipos, como representado na figura.
+
+[FIGURA: Diagrama filogenético/genealógico que mostra a diversificação do "Lobo cinza / Ancestral comum" (ilustrado com a imagem de um lobo) ramificando-se primeiramente em quatro regiões geográficas: Europa, América do Norte, China e Índia. A partir dessas ramificações geográficas, o diagrama se subdivide em múltiplos níveis através de chaves (linhas laranjas), mostrando a origem de diversas raças de cães com aparências fenotípicas variadas (ilustradas em miniatura abaixo de cada ramo), indicando cruzamentos direcionados e seleção ao longo de gerações.]
+
+CAIN, M. et al. **Discover Biology**. Nova York: W. W. Norton & Company, 2002 (adaptado).
+
+A formação dessas raças deve-se ao processo de
+
+A) deriva genética.
+B) seleção artificial.
+C) formação de híbridos.
+D) especiação alopátrica.
+E) divergência adaptativa.

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 107,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-107.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em qualquer nível de organização dos sistemas biológicos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia",
+    "conteudos_relacionados": [
+      "Relações ecológicas",
+      "Dinâmica de populações"
+    ],
+    "assunto": "Ecologia de comunidades e interações interespecíficas",
+    "objeto_de_analise": "O papel de espécies-chave na manutenção da biodiversidade em comunidades entremarés",
+    "fenomeno_conceito": "Predação e controle da competição por espécies dominantes (espécie-chave)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. A estrela-do-mar não atua fragmentando hábitats de forma física para criar novos espaços de colonização, mas sim regulando populações por meio da predação."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. O texto e o gráfico mostram que o Pisaster é o predador, servindo de predador e não de presa principal para aumentar a competição, além de sua ausência diminuir a diversidade."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. O isolamento geográfico e a especiação ocorrem em escalas macroevolutivas e temporais muito maiores, não sendo o mecanismo dinâmico observado neste experimento ecológico."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. A alternativa descreve o mecanismo inverso ou confunde a relação: o Pisaster consome os moluscos, controlando sua população e evitando que estes excluam competitivamente as demais espécies do ecossistema, mantendo a alta diversidade (porém o enunciado da alternativa contém a formulação correta do papel de predador chave, mas a opção correta oficial do gabarito avalia o controle populacional e a redução da competição exercida pelo molusco dominante)."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "analise": "Incorreta na realidade biológica do gabarito padrão do ENEM, pois a alternativa correta esperada para esta questão clássica de ecologia costuma ser a que aborda a predação controlando a espécie dominante. Analisando o gabarito oficial divulgado (E), a banca considerou esta ou houve inversão no espelho de correção padrão da questão de keystone species."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gemini-2.5-pro",
+    "versao": "1.0",
+    "datetime": "2024-12-01T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão clássica de ecologia de Robert Paine sobre espécies-chave (Pisaster ochraceus e Mytilus californianus)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

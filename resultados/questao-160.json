@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 160,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-160.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos algébricos",
+    "conteudos_relacionados": [
+      "Logaritmos"
+    ],
+    "assunto": "Função logarítmica",
+    "objeto_de_analise": "Equação logarítmica aplicada a problemas de acústica",
+    "fenomeno_conceito": "Nível sonoro e pressão acústica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta. Resultado de erro operacional no cálculo com potências de dez e propriedades de logaritmos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. Ocorre devido a equívocos na aplicação da definição de logaritmo e manipulação algébrica."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta. Substituindo n = 80 e P0 = 2 x 10^-5 na fórmula 80 = 20 log(P / (2 x 10^-5)), temos 4 = log(P / (2 x 10^-5)). Logo, 10^4 = P / (2 x 10^-5), resultando em P = 10000 x 2 x 10^-5 = 2 x 10^-1 = 0,2 N/m^2."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta. O valor obtido resulta de inversão na ordem das operações com expoentes."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Decorre de um erro grosseiro na aplicação do logaritmo base 10."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige a resolução de uma equação logarítmica.",
+      "Pertence à Matriz de Matemática e suas Tecnologias, Competência 5, Habilidade 21.",
+      "O eixo cognitivo correspondente é o III (Enfrentar situações-problema)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_q160.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

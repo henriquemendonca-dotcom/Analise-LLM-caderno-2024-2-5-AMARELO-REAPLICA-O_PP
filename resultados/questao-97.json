@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 97,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-97.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H12",
+        "descricao": "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econômicas, considerando interesses contraditórios."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Polímeros",
+    "conteudos_relacionados": [
+      "Impactos ambientais",
+      "Sustentabilidade"
+    ],
+    "assunto": "Plásticos biodegradáveis e impacto ambiental",
+    "objeto_de_analise": "Procedimentos para minimizar o impacto ambiental de resíduos plásticos",
+    "fenomeno_conceito": "Biodegradação e fontes renováveis na produção de materiais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta porque a incineração libera gases poluentes e gases de efeito estufa."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta pois, apesar de válida, o texto e o gabarito oficial direcionam para a alternativa que aborda a substituição por materiais de fontes renováveis e menor impacto cíclico estrutural na origem (materiais biodegradáveis)."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "Correta. A utilização de plásticos biodegradáveis derivados de fontes renováveis minimiza o acúmulo de resíduos persistentes e reduz a pegada ambiental."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta porque aterros sanitários apenas armazenam o lixo e esgotam a capacidade dos solos, não resolvendo o problema estrutural do acúmulo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta, pois os plásticos oxibiodegradáveis fragmentam-se em microplásticos que persistem no ambiente por muito tempo, gerando poluição invisível."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "1.0",
+    "datetime": "2024-10-25T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda resíduos plásticos e o impacto ambiental.",
+      "A matriz de ciências da natureza contempla polímeros e impactos ambientais sob a competência C3."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

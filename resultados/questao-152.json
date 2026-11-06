@@ -1,0 +1,74 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 152,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-152.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Identificar relações entre grandezas e unidades de medida."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Grandezas e medidas",
+    "conteudos_relacionados": [
+      "Unidades de medida"
+    ],
+    "assunto": "Unidades de medida de grandezas",
+    "objeto_de_analise": "Relação entre quantidade de pixels e unidade de comprimento",
+    "fenomeno_conceito": "Resolução de imagem digital em relação ao espaço linear"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto define resolução como a quantidade de pixels em cada quadradinho de 1 cm de lado contido na imagem.",
+      "A unidade do quadradinho mencionada envolve o lado em centímetros por centímetro linear ou área, mas o enunciado define por quadradinho de 1 cm de lado contido na imagem, o que se refere a uma linha ou densidade linear dependendo do contexto. Espera-se pixels por centímetro ou similar. Olhando as alternativas, a resolução de impressão comum usa DPI (pontos por polegada) ou pixels por cm linear. Se a densidade for por unidade de comprimento ou área, vamos analisar o enunciado cuidadosamente: 'quantidade de pontos, chamados pixels, que há em cada quadradinho de 1 cm de lado'. Na verdade, a densidade de pixels impressos em um segmento de 1 cm (unidade linear) é dada por pixels por centímetro, mas o enunciado diz 'em cada quadradinho de 1 cm de lado', o que indicaria área (cm quadrado). Contudo, a unidade padrão de densidade linear é pixel por centímetro (pixel / cm). Aguarde, o texto diz: 'quantidade de pixels que há em cada quadradinho de 1 cm de lado contido na imagem'. Se for uma imagem bidimensional onde a resolução é dada em pixels por unidade de comprimento linear em cada direção, a resolução típica é expressa em pixels por centímetro (pixel / cm). Vamos reavaliar: se a densidade é por unidade de comprimento, a alternativa D representa pixel por cm."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

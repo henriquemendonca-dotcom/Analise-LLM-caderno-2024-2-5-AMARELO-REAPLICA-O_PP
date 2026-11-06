@@ -1,0 +1,14 @@
+QUESTÃO 104
+
+Animais invertebrados que vivem em regiões de estuário, cujas águas têm grandes variações de salinidade, apresentam estratégias que permitem adaptações a essas variações. Animais que mantêm osmolaridade interna relativamente constante são chamados de osmorreguladores. Já os animais que não controlam ativamente a condição osmótica de seus líquidos corporais, adaptando-se à osmolaridade do ambiente, são chamados de osmoconformadores.
+
+Um pesquisador coletou animais de duas espécies de invertebrados, sendo o **Animal A** um osmorregulador e o **Animal B**, um osmoconformador. Ambos foram submetidos, em laboratório, a ambientes aquáticos com diferentes osmolaridades. Em cada situação, foi medida a pressão osmótica interna tanto do **Animal A** quanto do **Animal B**.
+
+O gráfico que representa corretamente os dados obtidos pelo pesquisador é:
+
+**[FIGURA: O enunciado apresenta cinco opções de gráficos identificadas pelas letras A, B, C, D e E. Em todos os gráficos, o eixo horizontal (X) representa a "Pressão osmótica externa (mOsm)" variando de 0 a 1 800 (com marcações a cada 200), e o eixo vertical (Y) representa a "Pressão osmótica interna (mOsm)" variando de 0 a 1 800 (com marcações a cada 200). Cada gráfico contém duas curvas: uma vermelha rotulada como "Animal A" e uma azul rotulada como "Animal B". 
+No gráfico A: A curva vermelha (Animal A) é uma linha diagonal crescente que começa aproximadamente em (200, 200) e sobe proporcionalmente até (1600, 1600). A curva azul (Animal B) começa por volta de (200, 600) e permanece quase constante e horizontal até cerca de (1600, 800).
+No gráfico B: A curva vermelha (Animal A) é quase constante, variando de 600 a 800 mOsm. A curva azul (Animal B) é uma linha diagonal crescente de (200, 200) até (1600, 1600).
+No gráfico C: A curva vermelha (Animal A) é quase constante, variando de 600 a 800 mOsm. A curva azul (Animal B) é uma linha diagonal decrescente que vai de (200, 1600) até (1600, 200).
+No gráfico D: A curva vermelha (Animal A) é uma linha diagonal decrescente que vai de (200, 1000) até (1600, 700). A curva azul (Animal B) é uma linha diagonal crescente que vai de (200, 200) até (1600, 600).
+No gráfico E: A curva vermelha (Animal A) é uma linha diagonal crescente que vai de (200, 600) até (1600, 1000). A curva azul (Animal B) é uma linha diagonal decrescente que vai de (200, 600) até (1600, 200).]**

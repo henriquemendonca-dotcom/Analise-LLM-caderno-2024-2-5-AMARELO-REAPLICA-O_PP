@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 175,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-175.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Operações em conjuntos numéricos",
+    "conteudos_relacionados": [
+      "Porcentagem e juros",
+      "Razões e proporções"
+    ],
+    "assunto": "Cálculo de custos com promoções em estabelecimentos comerciais",
+    "objeto_de_analise": "Comparação de preços finais após aplicação de descontos promocionais",
+    "fenomeno_conceito": "Matemática financeira básica"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige o cálculo do valor total para o banho de dois cachorros em cinco lojas diferentes, considerando preços bases e promoções.",
+      "Petshop I: Shitzu R$ 29,00 + Poodle promocional R$ 15,00 = R$ 44,00.",
+      "Petshop II: Shitzu R$ 23,00 + Poodle com 10 por cento de desconto (20 - 2 = 18) = R$ 41,00.",
+      "Petshop III: Shitzu R$ 25,00 + Poodle R$ 20,00 - R$ 5,00 = R$ 40,00.",
+      "Petshop IV: Shitzu R$ 22,00 + Poodle R$ 28,00 = R$ 50,00 menos 10 por cento = R$ 45,00.",
+      "Petshop V: Shitzu R$ 30,00 com 20 por cento de desconto (30 - 6 = 24) + Poodle R$ 24,00 = R$ 48,00.",
+      "Houve um erro no cálculo rápido anterior, vamos recalcular: Loja I: 29 + 15 = 44. Loja II: 23 + 18 = 41. Loja III: 25 + 20 - 5 = 40. Loja IV: (22 + 28) * 0.9 = 45. Loja V: 30 * 0.8 + 24 = 24 + 24 = 48. Menor preço é na Loja III? Aguarde, vamos checar novamente os dados da imagem: I) Shitzu 29, Poodle 18, Promoção Poodle 15 -> Total: 29 + 15 = 44. II) Shitzu 23, Poodle 20, Promoção Poodle 10 por cento desc -> 23 + 18 = 41. III) Shitzu 25, Poodle 20, Promoção R$ 5 desc no total -> 25 + 20 - 5 = 40. IV) Shitzu 22, Poodle 28, Promoção 10 por cento desc no total -> (22+28)*0.9 = 45. V) Shitzu 30, Poodle 24, Promoção 20 por cento desc no shitzu -> 24 + 24 = 48. Menor valor é 40 (Loja III), gabarito C."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

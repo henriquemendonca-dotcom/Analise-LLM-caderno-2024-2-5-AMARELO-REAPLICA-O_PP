@@ -1,0 +1,81 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 157,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-157.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H17",
+      "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H21",
+        "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Termologia",
+    "conteudos_relacionados": [
+      "Escalas Termométricas"
+    ],
+    "assunto": "Conversão entre escalas termométricas e representação gráfica",
+    "objeto_de_analise": "Relação linear entre a escala Celsius e a escala termométrica X",
+    "fenomeno_conceito": "Dilatação térmica e escalas de temperatura"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-19T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a conversão de temperaturas entre a escala Celsius e uma escala arbitrária X.",
+      "O enunciado fornece os pontos de fusão e ebulição da água em ambas as escalas, determinando uma função afim com coeficiente angular positivo.",
+      "Analisando os pontos (0, -10) e (100, 140), o gráfico correspondente é a reta que possui coeficiente angular positivo e intercepto negativo no eixo vertical.",
+      "A habilidade dominante em Ciências da Natureza para leitura e interpretação de gráficos termométricos correlaciona-se com H17."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

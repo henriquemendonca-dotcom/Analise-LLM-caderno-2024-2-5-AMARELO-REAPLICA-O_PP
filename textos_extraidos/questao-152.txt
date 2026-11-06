@@ -1,0 +1,15 @@
+QUESTÃO 152
+
+Uma pessoa ampliou uma foto no computador e, ao imprimi-la, verificou que a qualidade não estava boa. Assim, ficou curioso em saber as grandezas envolvidas no parâmetro que define a qualidade de uma imagem. Ao pesquisar, descobriu que um parâmetro que define a qualidade da imagem, ou resolução, pode ser considerado pela quantidade de pontos, chamados *pixels*, que há em cada quadradinho de $1\text{ cm}$ de lado contido na imagem.
+
+Considerando a pesquisa realizada, a unidade de medida do parâmetro de qualidade de uma imagem é expressa por
+
+**A** $\text{cm}^2 \cdot \text{pixel}$
+
+**B** $\text{cm} \cdot \text{pixel}$
+
+**C** $\dfrac{\text{cm}}{(\text{pixel})^2}$
+
+**D** $\dfrac{\text{pixel}}{\text{cm}}$
+
+**E** $\dfrac{\text{pixel}}{\text{cm}^2}$

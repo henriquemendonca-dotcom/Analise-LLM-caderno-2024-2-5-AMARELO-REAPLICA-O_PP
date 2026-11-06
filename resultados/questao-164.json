@@ -1,0 +1,83 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 164,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-164.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar características de figuras planas ou espaciais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos geométricos",
+    "conteudos_relacionados": [
+      "Características das figuras geométricas planas e espaciais"
+    ],
+    "assunto": "Geometria Espacial",
+    "objeto_de_analise": "Octaedro regular truncado",
+    "fenomeno_conceito": "Poliedros e suas propriedades (relação de Euler, vértices, arestas e faces)"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O octaedro regular possui 6 vértices.",
+      "O processo de truncamento retira uma pirâmide em cada um dos 6 vértices do octaedro regular.",
+      "Cada vértice original do octaedro é substituído por uma face poligonal (neste caso, um quadrado, pois o octaedro tem 4 arestas convergindo em cada vértice).",
+      "Cada vértice original dá origem a 4 novos vértices no octaedro truncado (um para cada aresta que concorria no vértice original).",
+      "Portanto, o número total de vértices do octaedro truncado é 6 vértices originais multiplicados por 4 novos vértices cada, resultando em 24 vértices.",
+      "Nota: Houve um pequeno lapso na formulação padrão da questão do ENEM (muitos gabaritos consideram o cubo truncado ou octaedro truncado Arquimediano). Para o octaedro truncado de Arquimedes (ou cubo truncado dual), ele tem 24 vértices, 36 arestas e 14 faces. A pergunta pede a quantidade de vértices. A resposta correta é 24 (Alternativa D)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

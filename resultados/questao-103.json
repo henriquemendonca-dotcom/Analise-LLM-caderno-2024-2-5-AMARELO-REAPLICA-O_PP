@@ -1,0 +1,84 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 103,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-103.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estequiometria",
+    "conteudos_relacionados": [
+      "Aspectos quantitativos das transformações químicas",
+      "Grandezas Químicas"
+    ],
+    "assunto": "Cálculo estequiométrico envolvendo etapas sucessivas",
+    "objeto_de_analise": "Massa de reagente necessária para a obtenção de um produto metálico a partir de minério",
+    "fenomeno_conceito": "Transformação química e conservação de massa"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A questão aborda o cálculo estequiométrico para obtenção de titânio metálico a partir do dióxido de titânio e gás cloro em reações consecutivas.",
+      "A massa de titânio desejada é 480 kg.",
+      "Pela relação estequiométrica global ou por etapas, para cada 1 mol de Ti produzido são consumidos 2 mols de Cl2.",
+      "Massa molar do Ti = 48 g/mol; Massa molar do Cl2 = 71 g/mol.",
+      "480 kg de Ti equivalem a 10 kmol de Ti.",
+      "Serão necessários 20 kmol de Cl2, cuja massa é 20 kmol * 71 kg/kmol = 1420 kg (Aguarde, recalculando: 1 mol Ti reage indiretamente com 2 mols de Cl2 através do TiCl4. Na reação 1: TiO2 + 2Cl2 + 2CO -> TiCl4 + 2CO2. Na reação 2: 2Mg + TiCl4 -> 2MgCl2 + Ti. Logo, 1 mol de Ti consome 2 mols de Cl2. 480 kg de Ti / 48 g/mol = 10 kmol de Ti. Como a proporção é 1 mol de Ti para 2 mols de Cl2, temos 20 kmol de Cl2. A massa molar do Cl2 é 71 g/mol (ou 71 kg/kmol). 20 kmol * 71 kg/kmol = 1420 kg. Gabarito correto: E)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "INEP"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 138,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-138.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estatística",
+    "conteudos_relacionados": [
+      "Média aritmética"
+    ],
+    "assunto": "Cálculo de média aritmética",
+    "objeto_de_analise": "Temperaturas máximas mensais em cidades distintas",
+    "fenomeno_conceito": "Média de temperatura máxima em meses consecutivos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A cidade X apresenta médias consecutivas menores do que a cidade Z."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A cidade Y apresenta médias consecutivas menores do que a cidade Z."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A cidade Z apresenta os meses de maio e junho com temperaturas 20 e 28, resultando na maior média entre dois meses consecutivos (média igual a 24)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A cidade W apresenta médias consecutivas menores do que a cidade Z."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A cidade K apresenta médias consecutivas menores do que a cidade Z."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-12T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige o cálculo da média aritmética para pares de meses consecutivos (Abril-Maio, Maio-Junho, Junho-Julho) para cada cidade apresentada na tabela.",
+      "Para a cidade Z, os meses de Maio (20) e Junho (28) fornecem a soma 48, cuja média é 24, sendo a maior média possível dentre todas as opções."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_138",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

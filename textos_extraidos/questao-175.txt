@@ -1,0 +1,24 @@
+QUESTÃO 175
+
+O dono de dois cachorrinhos, um shitzu e um poodle, fez uma pesquisa na internet sobre preços de banho para seus cães em cinco lojas próximas à sua casa. Ele pretendia levar os dois cachorrinhos a um mesmo petshop naquela semana para tomar banho.
+
+**[FIGURA: Tabela com 5 linhas (correspondentes aos petshops I, II, III, IV e V) e 4 colunas contendo as seguintes informações:
+- Coluna 1 (Petshop): I, II, III, IV, V.
+- Coluna 2 (Shitzu): R$ 29,00 (I); R$ 23,00 (II); R$ 25,00 (III); R$ 22,00 (IV); R$ 30,00 (V).
+- Coluna 3 (Poodle): R$ 18,00 (I); R$ 20,00 (II); R$ 20,00 (III); R$ 28,00 (IV); R$ 24,00 (V).
+- Coluna 4 (Promoção da semana): 
+  - I: Banho para cães da raça poodle: R$ 15,00
+  - II: 10% de desconto no valor do banho para cães da raça poodle
+  - III: Traga dois cachorrinhos para tomar banho e ganhe R$ 5,00 de desconto no valor total
+  - IV: Traga dois cachorrinhos para tomar banho e ganhe 10% de desconto no valor total
+  - V: 20% de desconto no valor do banho para cães da raça shitzu]**
+
+O local escolhido foi o que apresentou o menor preço para banho dos dois cachorrinhos.
+
+O petshop escolhido foi o
+
+A) I.
+B) II.
+C) III.
+D) IV.
+E) V.

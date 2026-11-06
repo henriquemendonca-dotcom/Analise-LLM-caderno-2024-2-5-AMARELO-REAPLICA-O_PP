@@ -1,0 +1,13 @@
+QUESTÃO 100
+
+O DNA mitocondrial pode ser utilizado para evidenciar um parentesco ou uma descendência. Sabe-se que o zigoto recebe mitocôndrias apenas do gameta feminino. O heredograma apresenta a genealogia de uma família.
+
+**[FIGURA: Heredograma mostrando relações familiares através de várias gerações. Homens são representados por quadrados azuis e mulheres por círculos vermelhos. Há uma legenda no canto superior direito indicando que quadrados azuis representam "Homem" e círculos vermelhos representam "Mulher". O heredograma possui vários indivíduos numerados ou identificados por letras: o indivíduo 1 (círculo vermelho na primeira ramificação à esquerda), o indivíduo 2 (quadrado azul na segunda geração), o indivíduo W (quadrado azul na última geração, associado a um círculo vermelho), o indivíduo 4 (círculo vermelho na última geração à esquerda), o indivíduo 5 (quadrado azul na última geração) e o indivíduo 3 (quadrado azul na última geração à direita). As linhas conectam pais e filhos, permitindo rastrear a linhagem materna.]**
+
+O DNA mitocondrial do indivíduo **W** é igual ao do indivíduo
+
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.

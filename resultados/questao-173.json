@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 173,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-173.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "I",
+      "nome": "Dominar linguagens (DL)",
+      "descricao": "dominar a norma culta da Língua Portuguesa e fazer uso das linguagens matemática, artística e científica e das línguas espanhola e inglesa."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Sistema de numeração decimal",
+    "conteudos_relacionados": [],
+    "assunto": "Leitura e escrita de números naturais",
+    "objeto_de_analise": "Representação numérica a partir da leitura por extenso",
+    "fenomeno_conceito": "Valor posicional dos algarismos"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "1.0",
+    "datetime": "2024-10-01T00:00:00",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a representação numérica de um valor escrito por extenso: um milhão, cento e setenta e seis mil (ou uma interpretação posicional baseada na leitura do texto original do ENEM)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

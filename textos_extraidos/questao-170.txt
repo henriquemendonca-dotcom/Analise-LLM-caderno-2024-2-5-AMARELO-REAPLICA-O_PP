@@ -1,0 +1,13 @@
+QUESTÃO 170
+
+Um novo condomínio foi construído na Rua X. Alguns lotes já receberam numeração da prefeitura, enquanto outros apresentam apenas o sobrenome do seu proprietário. O servidor da prefeitura numerará os lotes que ainda não foram numerados. Para isso, ele observa o padrão da numeração já existente, conforme apresentado na figura, percebendo que, em cada lado da rua, as sequências das numerações formam progressões aritméticas, e, com isso, atribui um número ao lote da família Costa.
+
+[FIGURA: Diagrama esquemático representando dois lados da "Rua X", separados por uma linha tracejada horizontal central que indica a rua. Na parte superior, há cinco retângulos lado a lado representando lotes, contendo, da esquerda para a direita: "Costa", "Pereira", "139", "Dias", "183". Na parte inferior, há outros cinco retângulos lado a lado, posicionados em frente aos superiores, contendo, da esquerda para a direita: "84", "106", "Teixeira", "Guimarães", "172".]
+
+O número atribuído ao lote da família Costa é
+
+A) 51.
+B) 73.
+C) 95.
+D) 117.
+E) 161.

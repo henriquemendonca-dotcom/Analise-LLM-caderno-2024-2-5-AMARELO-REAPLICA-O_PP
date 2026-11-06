@@ -1,0 +1,87 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 147,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-147.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "2",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H15",
+        "descricao": "Identificar a relação de dependência entre grandezas."
+      },
+      {
+        "id": "H19",
+        "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [
+      "Função afim",
+      "Gráficos e funções"
+    ],
+    "assunto": "Variação de grandezas e funções afins no plano cartesiano",
+    "objeto_de_analise": "Taxa de variação das temperaturas de dois objetos em função do tempo representadas por semirretas",
+    "fenomeno_conceito": "Proporcionalidade entre a variação de temperatura e o intervalo de tempo transcorrido"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda duas semirretas no plano cartesiano representando a temperatura em função do tempo.",
+      "A temperatura y1 passa por (0, 10) e (20, 50), tendo uma variação de 40 graus em 20 segundos, o que resulta em uma taxa de 2 graus por segundo.",
+      "O enunciado informa que y1 aumentou 20 graus Celsius, logo o intervalo de tempo decorrido foi de 20 / 2 = 10 segundos.",
+      "A temperatura y2 passa por (0, 10) e (40, 30), tendo uma variação de 20 graus em 40 segundos, ou seja, 0,5 grau por segundo.",
+      "No mesmo intervalo de tempo de 10 segundos, a temperatura y2 aumenta 0,5 * 10 = 5 graus Celsius."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 132,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-132.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar las tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H21",
+        "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Eletrodinâmica",
+    "conteudos_relacionados": [
+      "Circuitos Elétricos",
+      "Associação de Resistores"
+    ],
+    "assunto": "Circuitos elétricos com gerador e resistores em paralelo",
+    "objeto_de_analise": "Corrente elétrica e fator de proporcionalidade em circuitos modificados",
+    "fenomeno_conceito": "Lei de Ohm e potência dissipada em lâmpadas"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto da questão trata de um circuito elétrico residencial de pisca-pisca com resistores em paralelo e fonte com resistência interna.",
+      "A questão exige o cálculo da razão entre as correntes ou o fator de proporcionalidade da corrente ao alterar o número de lâmpadas.",
+      "Para 20 lâmpadas idênticas de resistência R em paralelo, a resistência equivalente é R/20.",
+      "Para 40 lâmpadas idênticas em paralelo, a resistência equivalente é R/40.",
+      "A corrente total em um circuito com gerador de força eletromotriz E e resistência interna r é dada por i = E / (Req + r).",
+      "Calculando a corrente para 20 lâmpadas: i_20 = E / ((R/20) + r).",
+      "Calculando a corrente para 40 lâmpadas: i_40 = E / ((R/40) + r).",
+      "O enunciado define a relação i_40 = alpha * i_20.",
+      "Substituindo os valores, obtém-se o fator alfanumérico ou a expressão correspondente, levando à alternativa correta considerando que o brilho e a corrente em cada lâmpada diminuem proporcionalmente ao número total e à nova configuração de resistência."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

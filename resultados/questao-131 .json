@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 131,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-131 .txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H26",
+      "descricao": "Avaliar implicações sociais, ambientais e/ou econômicas na produção ou no consumo de recursos energéticos ou minerais, identificando transformações químicas ou de energia envolvidas nesses processos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Fontes de Energia",
+    "conteudos_relacionados": [
+      "Biomassa",
+      "Transformações Químicas"
+    ],
+    "assunto": "Fontes primárias e secundárias de energia",
+    "objeto_de_analise": "Processos de obtenção de energia elétrica a partir de diferentes fontes primárias",
+    "fenomeno_conceito": "Conversão de energia química em energia elétrica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A energia eólica baseia-se na conversão de energia cinética do vento em energia elétrica, utilizando processos mecânicos e eletromagnéticos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A energia nuclear baseia-se em reações nucleares (fissão ou fusão), envolvendo o núcleo dos átomos, e não reações químicas."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A biomassa utiliza matéria orgânica que pode sofrer combustão ou reações químicas (como em biocombustíveis e pilhas a combustível) para gerar energia, envolvendo transformações químicas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A energia maremotriz utiliza a energia cinética e potencial das marés, tratando-se de um processo físico-mecânico."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A energia geotérmica utiliza o calor proveniente do interior da Terra, sendo um processo termodinâmico e físico."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda fontes de energia e seus processos de conversão.",
+      "A biomassa envolve processos químicos como a queima e a fermentação."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

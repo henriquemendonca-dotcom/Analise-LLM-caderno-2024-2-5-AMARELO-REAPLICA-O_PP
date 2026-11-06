@@ -1,0 +1,21 @@
+QUESTÃO 103
+
+O titânio é encontrado na natureza em minerais, dos quais o rutilo ($\text{TiO}_2$) está presente na principal mina do Brasil, localizada no Rio Grande do Norte. Para obtenção do titânio metálico, o $\text{TiO}_2$ é submetido a duas operações industriais. A primeira consiste na cloração, produzindo tetracloreto de titânio, conforme a equação:
+
+$$\text{TiO}_2 + 2\text{ Cl}_2 + 2\text{ CO} \rightleftharpoons \text{TiCl}_4 + 2\text{ CO}_2$$
+
+A segunda operação consiste na redução do tetracloreto de titânio, utilizando magnésio metálico:
+
+$$2\text{ Mg} + \text{TiCl}_4 \rightleftharpoons 2\text{ MgCl}_2 + \text{Ti}$$
+
+Considere as massas molares:
+
+$$\text{Cl} = 35,5\text{ }\frac{\text{g}}{\text{mol}} \text{ ; Ti} = 48\text{ }\frac{\text{g}}{\text{mol}} \text{ .}$$
+
+Qual a massa de gás cloro necessária para produzir $480\text{ kg}$ de titânio metálico?
+
+A) $179\text{ kg}$  
+B) $359\text{ kg}$  
+C) $480\text{ kg}$  
+D) $710\text{ kg}$  
+E) $1420\text{ kg}$

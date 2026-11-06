@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 99,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-99.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H30",
+      "descricao": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H14",
+        "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Qualidade de vida das populações humanas",
+    "conteudos_relacionados": [
+      "Principais doenças que afetam a população brasileira: caracterização, prevenção e profilaxia"
+    ],
+    "assunto": "Prevenção de infecções respiratórias virais",
+    "objeto_de_analise": "Mecanismo de ação das máscaras faciais na redução da transmissão de vírus",
+    "fenomeno_conceito": "Barreira física contra a propagação de aerossóis e gotículas contendo patógenos",
+    "fenomeno_ou_conceito": null
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta_incorreta": "incorreta",
+      "justificativa": "As máscaras funcionam como barreiras físicas e mecânicas, não tendo a propriedade química ou biológica de neutralizar (destruir ou inativar) as partículas virais."
+    },
+    {
+      "alternativa": "B",
+      "correta_incorreta": "correta",
+      "justificativa": "As máscaras atuam como uma barreira física que bloqueia a dispersão e a inalação das gotículas e aerossóis carregados de partículas virais, diminuindo a exposição e o contágio."
+    },
+    {
+      "alternativa": "C",
+      "correta_incorreta": "incorreta",
+      "justificativa": "A máscara não altera a quantidade de vírus produzida pelo organismo do indivíduo infectado, apenas impede que esses vírus sejam liberados para o ambiente."
+    },
+    {
+      "alternativa": "D",
+      "correta_incorreta": "incorreta",
+      "justificativa": "As máscaras não afetam o volume de partículas virais geradas internamente ou a respiração celular, mas barram a propagação externa."
+    },
+    {
+      "alternativa": "E",
+      "correta_incorreta": "incorreta",
+      "justificativa": "O uso de máscaras não mantém fisicamente afastados os indivíduos; a sua função é servir como barreira de retenção de aerossóis, independentemente da distância."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T12:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto aborda a transmissão de vírus respiratórios por aerossóis e o papel das máscaras.",
+      "A figura demonstra claramente a redução da dispersão de partículas quando o indivíduo utiliza a máscara.",
+      "Habilidade H30 de Biologia engloba propostas que visam à preservação e implementação da saúde coletiva e individual."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2024_q99",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

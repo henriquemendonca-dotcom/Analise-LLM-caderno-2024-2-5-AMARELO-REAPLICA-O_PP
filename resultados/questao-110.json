@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 110,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-110.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Compreender o papel da evolução na produção de padrões, processos biológicos ou na organização taxonômica dos seres vivos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H30",
+        "descricao": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Evolução e Genética",
+    "conteudos_relacionados": [
+      "Seleção Artificial"
+    ],
+    "assunto": "Teoria sintética da evolução",
+    "objeto_de_analise": "Diagrama filogenético da domesticação e diversificação de raças de cães",
+    "fenomeno_conceito": "Seleção artificial"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A deriva genética é um processo estocástico que altera as frequências alélicas ao acaso, não correspondendo ao cruzamento direcionado pelo ser humano representado."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A formação das diferentes raças de cães a partir de um ancestral comum ocorreu por meio da seleção artificial, processo em que os humanos selecionam características desejáveis para reprodução."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A formação de híbridos envolve o cruzamento entre espécies distintas, o que não é o foco principal do diagrama que ilustra a diversificação intraespecífica de raças."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A especiação alopátrica resulta do isolamento geográfico natural que impede o fluxo gênico a ponto de gerar novas espécies, diferindo do controle humano intencional na formação de raças."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A divergência adaptativa ocorre por pressões seletivas do ambiente natural, enquanto o caso retrata a intervenção humana direta (seleção artificial)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a moderna teoria evolucionista aplicada à formação de raças de cães por meio de reprodução diferencial.",
+      "O gabarito oficial da questão 110 do ENEM 2024 é a alternativa B."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "INEP"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

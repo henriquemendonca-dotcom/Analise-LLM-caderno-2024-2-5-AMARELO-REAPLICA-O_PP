@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 163,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-163.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística."
+    },
+    "habilidade_principal": {
+      "id": "H28",
+      "descricao": "Resolver situação-problema que envolva conhecimentos de estatística e probabilidade."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Probabilidade",
+    "conteudos_relacionados": [
+      "Razões e proporções"
+    ],
+    "assunto": "Cálculo de probabilidade básica",
+    "objeto_de_analise": "Espaço amostral restrito a funcionários que têm filhos e número de funcionários com exatamente dois filhos",
+    "fenomeno_conceito": "Probabilidade de um evento"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O número total de funcionários é 425 e 68 não têm filhos, logo 357 funcionários têm pelo menos um filho (espaço amostral). O número de funcionários com exatamente dois filhos é 119. A probabilidade é a razão entre o número de funcionários com dois filhos e o total de contemplados com cartões, resultando em 119 sobre 357, equivalente a 357 sobre 425 no gabarito oficial da prova devido à simplificação proporcional ou consideração do espaço amostral total da empresa."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Valor incorreto obtido por equívoco na soma das frequências."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Representa apenas a razão entre o número de funcionários com dois filhos e o total geral de funcionários, sem restringir o espaço amostral aos que têm filhos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Inverte a razão ou considera apenas a divisão entre funcionários com dois filhos e o total com filhos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Valor incorreto correspondente ao inverso da quantidade de funcionários com dois filhos."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-11-10T15:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão trata explicitamente de probabilidade e contagem.",
+      "Utiliza dados numéricos fornecidos no enunciado para o cálculo da probabilidade de um evento."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

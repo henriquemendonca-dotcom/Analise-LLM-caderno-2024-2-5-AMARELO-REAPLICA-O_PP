@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 144,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-144.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas."
+    },
+    "habilidade_principal": {
+      "id": "H19",
+      "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H21",
+        "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conhecimentos algébricos",
+    "conteudos_relacionados": [
+      "Sequências e progressões"
+    ],
+    "assunto": "Progressão geométrica e expressões algébricas",
+    "objeto_de_analise": "Modelagem matemática de crescimento percentual acumulado",
+    "fenomeno_conceito": "Crescimento exponencial"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-11-20T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão exige a construção de uma expressão algébrica para representar um crescimento percentual sucessivo.",
+      "O aumento de 50 por cento a cada ano em relação ao ano anterior caracteriza uma progressão geométrica ou crescimento exponencial.",
+      "A habilidade H19 é diretamente voltada para identificar representações algébricas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

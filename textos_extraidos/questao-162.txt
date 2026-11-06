@@ -1,0 +1,17 @@
+QUESTÃO 162
+
+As distâncias no espaço são tão grandes que seria muito difícil gerenciar os números medindo-os em milhas ou em quilômetros. Então, os astrônomos criaram uma medida padrão, o ano-luz. Um ano-luz é a distância percorrida pela luz, no vácuo, durante um ano. Para se ter uma ideia, um segundo-luz é igual a $300\,000\text{ km}$, ou seja, se dois objetos estão separados por um segundo-luz, a distância entre eles é $300\,000\text{ km}$.
+
+Na imagem, tem-se a representação da Via Láctea e, no círculo em detalhe, a distância entre o Sol e a Terra, igual a 8 minutos-luz.
+
+[FIGURA: A imagem superior mostra uma representação artística da galáxia Via Láctea em formato de espiral vista de perfil/diagonal, com indicações apontando para três regiões: "Bojo" (a região central mais espessa), "Núcleo" (o centro brilhante) e "Disco" (o plano galáctico). A imagem inferior é um diagrama circular representando o sistema solar interno, contendo as órbitas elípticas de alguns planetas. Há indicações para a posição do Sol (um círculo amarelo brilhante à direita), e órbitas com os planetas: Mercúrio, Vênus, Terra (ponto azul) e Marte (ponto vermelho). Uma seta dupla pontilhada conecta o Sol à Terra, com o rótulo "8 minutos-luz".]
+
+Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 5 ago. 2012.
+
+A distância entre o Sol e a Terra, em km, escrita como uma potência de base 10, é de
+
+A) $24 \times 10^5$
+B) $144 \times 10^5$
+C) $18 \times 10^6$
+D) $24 \times 10^6$
+E) $144 \times 10^6$

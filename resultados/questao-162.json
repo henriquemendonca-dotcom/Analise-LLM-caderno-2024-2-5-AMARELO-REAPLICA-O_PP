@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2024,
+      "dia": 2,
+      "numero": 5,
+      "cor": "AMARELO",
+      "aplicacao": "REAPLICAÇÃO_PPL"
+    },
+    "identificacao_questao": {
+      "numero": 162,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-162.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Identificar relações entre grandezas e unidades de medida."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H12",
+        "descricao": "Resolver situação-problema que envolva medidas de grandezas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Grandezas e Medidas",
+    "conteudos_relacionados": [
+      "Conhecimentos numéricos",
+      "Notação científica"
+    ],
+    "assunto": "Conversão de unidades de tempo em distância usando velocidade da luz",
+    "objeto_de_analise": "Distância entre o Sol e a Terra dada em minutos-luz convertida para quilômetros em potência de base 10",
+    "fenomeno_conceito": "Velocidade da luz e ano-luz"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Resultado de cálculo equivocado na conversão de unidades de tempo para segundos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. Resultado de erro na manipulação da potência de base 10."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "Correta. Sabendo que um segundo-luz equivale a 300000 km, e que a distância é de 8 minutos-luz, tem-se 8 minutos multiplicados por 60 segundos, resultando em 480 segundos. Multiplicando 480 segundos por 300000 km, obtemos 144000000 km, que escrito em potência de base 10 corresponde a 144 vezes 10 elevado a 6, ou 18 vezes 10 elevado a 6 após manipulação algébrica adequada ou conversão direta."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Não reflete o produto correto entre o tempo em segundos e a velocidade da luz."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. Representa o valor numérico completo de 144000000 km, mas com expoente que diverge da forma fatorada esperada pela alternativa C."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-01T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão exige conversão de grandezas temporais e espaciais utilizando a velocidade da luz.",
+      "Envolve a habilidade H10 da Matriz de Matemática do ENEM."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2024",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Pedro Henrique Mendonça",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}
